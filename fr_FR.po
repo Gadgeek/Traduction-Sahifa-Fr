@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sahifa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 10:38+0200\n"
-"PO-Revision-Date: 2016-01-24 20:41+0100\n"
+"PO-Revision-Date: 2016-01-25 02:33+0100\n"
 "Language-Team: TieLabs <info@tielabs.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1223,50 +1223,52 @@ msgstr "Entrer un mot-clé ou des mots-clés séparés par des virgules"
 #: ../framework/admin/framework-panel.php:622
 msgid "Hold CTRL while selecting to select multiple categories."
 msgstr ""
+"Garder le touche CTRL enfoncée pour faire une sélection multiple de "
+"catégories."
 
 #: ../framework/admin/framework-builder.php:568
 #: ../framework/admin/framework-builder.php:750
 msgid "Selective Posts IDs"
-msgstr ""
+msgstr "Sélectionner les  ID des  articles"
 
 #: ../framework/admin/framework-builder.php:569
 #: ../framework/admin/framework-builder.php:751
 msgid "Enter a post ID, or IDs separated by comma."
-msgstr ""
+msgstr "Entrer les ID des articles séparées par des virgules."
 
 #: ../framework/admin/framework-builder.php:574
 #: ../framework/admin/framework-builder.php:756
 msgid "Selective Pages IDs"
-msgstr ""
+msgstr "Sélectionner les ID des pages."
 
 #: ../framework/admin/framework-builder.php:575
 #: ../framework/admin/framework-builder.php:757
 msgid "Enter a page ID, or IDs separated by comma."
-msgstr ""
+msgstr "Sélectionner les ID des pages séparées par des virgules."
 
 #: ../framework/admin/framework-builder.php:581
 #: ../framework/admin/framework-builder.php:763
 msgid "Choose your custom slider"
-msgstr ""
+msgstr "Choisir un Slide Personnalisé"
 
 #: ../framework/admin/framework-builder.php:589
 msgid "Slider Settings"
-msgstr ""
+msgstr "Configuration du Slide"
 
 #: ../framework/admin/framework-builder.php:597
 #: ../framework/admin/framework-category.php:147
 msgid "Slider Type"
-msgstr ""
+msgstr "Type de Slide"
 
 #: ../framework/admin/framework-builder.php:600
 #: ../framework/admin/framework-category.php:151
 msgid "FlexSlider"
-msgstr ""
+msgstr "FlexSlider"
 
 #: ../framework/admin/framework-builder.php:601
 #: ../framework/admin/framework-category.php:152
 msgid "Elastic Slideshow"
-msgstr ""
+msgstr "Elastique Slideshow"
 
 #: ../framework/admin/framework-builder.php:606
 #: ../framework/admin/framework-builder.php:642
@@ -1274,106 +1276,106 @@ msgstr ""
 #: ../framework/admin/framework-category.php:198
 #: ../framework/admin/framework-panel.php:572
 msgid "Animation Effect"
-msgstr ""
+msgstr "Effet d\\'animation"
 
 #: ../framework/admin/framework-builder.php:611
 #: ../framework/admin/framework-category.php:164
 msgid "Sides"
-msgstr ""
+msgstr "Faces"
 
 #: ../framework/admin/framework-builder.php:614
 #: ../framework/admin/framework-category.php:167
 #: ../framework/widgets/widget-soundcloud.php:56
 msgid "Autoplay"
-msgstr ""
+msgstr "Jouer automatiquement"
 
 #: ../framework/admin/framework-builder.php:646
 #: ../framework/admin/framework-category.php:203
 #: ../framework/admin/framework-panel.php:576
 msgid "Fade"
-msgstr ""
+msgstr "Fondu"
 
 #: ../framework/admin/framework-builder.php:647
 #: ../framework/admin/framework-category.php:204
 msgid "Slide Vertical"
-msgstr ""
+msgstr "Slide Vertical"
 
 #: ../framework/admin/framework-builder.php:648
 #: ../framework/admin/framework-category.php:205
 msgid "Slide Horizontal"
-msgstr ""
+msgstr "Slide Horizontal"
 
 #: ../framework/admin/framework-builder.php:671
 #: ../framework/admin/framework-category.php:230
 msgid "Show Slides Caption"
-msgstr ""
+msgstr "Montrer les texte de description du Slide"
 
 #: ../framework/admin/framework-builder.php:676
 #: ../framework/admin/framework-category.php:236
 msgid "Slides Caption Length"
-msgstr ""
+msgstr "Longueur de la description du Slide"
 
 #: ../framework/admin/framework-builder.php:683
 msgid "Slider Position"
-msgstr ""
+msgstr "Position du Slide"
 
 #: ../framework/admin/framework-category.php:40
 #: ../framework/admin/framework-metaboxes.php:49
 #: ../framework/admin/framework-panel.php:1880 ../framework/widgets.php:21
 msgid "Shop - For WooCommerce Pages"
-msgstr ""
+msgstr "Shop - Pages Woocommerce"
 
 #: ../framework/admin/framework-category.php:50
 #: ../framework/functions/mega-menus.php:363
 #: ../framework/widgets/widget-slider.php:149
 msgid "Disable"
-msgstr ""
+msgstr "Désactiver"
 
 #: ../framework/admin/framework-category.php:76
 msgid "Category Layout"
-msgstr ""
+msgstr "Bloc Catégorie"
 
 #: ../framework/admin/framework-category.php:114
 msgid "Category Sidebar"
-msgstr ""
+msgstr "Sidebar Catégorie"
 
 #: ../framework/admin/framework-category.php:118
 msgid "Custom Sidebar"
-msgstr ""
+msgstr "Sidebar Personalisée"
 
 #: ../framework/admin/framework-category.php:130
 msgid "Category Slider"
-msgstr ""
+msgstr "Slider Catégorie"
 
 #: ../framework/admin/framework-category.php:247
 msgid "Category Logo"
-msgstr ""
+msgstr "Catégorie Logo"
 
 #: ../framework/admin/framework-category.php:250
 msgid "Custom Logo"
-msgstr ""
+msgstr "Logo Personnalisé"
 
 #: ../framework/admin/framework-category.php:256
 msgid "Logo Setting"
-msgstr ""
+msgstr "Configuration du Logo"
 
 #: ../framework/admin/framework-category.php:260
 #: ../framework/admin/framework-panel.php:394
 msgid "Custom Image Logo"
-msgstr ""
+msgstr "Logo Personnalisé"
 
 #: ../framework/admin/framework-category.php:261
 msgid "Display The Category Title"
-msgstr ""
+msgstr "Afficher le titre de la catégorie"
 
 #: ../framework/admin/framework-category.php:266
 msgid "Custom Logo Image"
-msgstr ""
+msgstr "Image du Logo Personnalisé"
 
 #: ../framework/admin/framework-category.php:272
 #: ../framework/admin/framework-panel.php:405
 msgid "Logo Image (Retina Version @2x)"
-msgstr ""
+msgstr "Logo (Retina Version @2x)"
 
 #: ../framework/admin/framework-category.php:276
 #: ../framework/admin/framework-panel.php:408
@@ -1381,11 +1383,13 @@ msgid ""
 "Please choose an image file for the retina version of the logo. It should be "
 "2x the size of main logo."
 msgstr ""
+"Choisissez un fichier image pour la version de Retina du logo. Il devrait "
+"faire 2x la taille de logo principal."
 
 #: ../framework/admin/framework-category.php:279
 #: ../framework/admin/framework-panel.php:411
 msgid "Standard Logo Width for Retina Logo"
-msgstr ""
+msgstr "Largeur  Standard du Logo Retina"
 
 #: ../framework/admin/framework-category.php:283
 #: ../framework/admin/framework-panel.php:414
@@ -1393,11 +1397,13 @@ msgid ""
 "If retina logo is uploaded, please enter the standard logo (1x) version "
 "width, do not enter the retina logo width."
 msgstr ""
+"Si le logo Retina est téléchargé, merci d\\'entrer le logo standard (1x) , "
+"n'entrez pas la largeur du logo de Retina."
 
 #: ../framework/admin/framework-category.php:286
 #: ../framework/admin/framework-panel.php:417
 msgid "Standard Logo Height for Retina Logo"
-msgstr ""
+msgstr "Hauteur Standard du Logo Retina"
 
 #: ../framework/admin/framework-category.php:290
 #: ../framework/admin/framework-panel.php:420
@@ -1405,24 +1411,26 @@ msgid ""
 "If retina logo is uploaded, please enter the standard logo (1x) version "
 "height, do not enter the retina logo height."
 msgstr ""
+"Si le logo Retina est téléchargé, merci d\\'entrer le logo standard (1x) , "
+"n'entrez pas la hauteur du logo de Retina."
 
 #: ../framework/admin/framework-category.php:294
 #: ../framework/admin/framework-panel.php:423
 msgid "Logo Margin Top"
-msgstr ""
+msgstr "Hauteur de Marge du Logo"
 
 #: ../framework/admin/framework-category.php:303
 #: ../framework/admin/framework-panel.php:432
 msgid "Logo Margin Bottom"
-msgstr ""
+msgstr "Marge en bas du Logo"
 
 #: ../framework/admin/framework-category.php:314
 msgid "Category Style"
-msgstr ""
+msgstr "Style de la catégorie"
 
 #: ../framework/admin/framework-category.php:317
 msgid "Main Color"
-msgstr ""
+msgstr "Couleur principale"
 
 #: ../framework/admin/framework-category.php:323
 #: ../framework/admin/framework-metaboxes.php:244
@@ -1430,161 +1438,163 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:2382
 #: ../framework/admin/framework-panel.php:2498
 msgid "Background"
-msgstr ""
+msgstr "Arrière-plan"
 
 #: ../framework/admin/framework-category.php:329
 #: ../framework/admin/framework-metaboxes.php:249
 #: ../framework/admin/framework-panel.php:2307
 msgid "Full Screen Background"
-msgstr ""
+msgstr "Arrière-plan plein écran"
 
 #: ../framework/admin/framework-metaboxes.php:7
 msgid "Post Options"
-msgstr ""
+msgstr "Options de l\\'article"
 
 #: ../framework/admin/framework-metaboxes.php:8
 msgid "Page Options"
-msgstr ""
+msgstr "Options de la page"
 
 #: ../framework/admin/framework-metaboxes.php:9
 msgid "More Options"
-msgstr ""
+msgstr "Plus d\\'options"
 
 #: ../framework/admin/framework-metaboxes.php:70
 #: ../framework/admin/framework-metaboxes.php:72
 #: ../framework/admin/framework-panel.php:602
 #: ../framework/functions/translation.php:58 ../template-sitemap.php:41
 msgid "Categories"
-msgstr ""
+msgstr "Catégories"
 
 #: ../framework/admin/framework-metaboxes.php:97
 msgid "Authors template Options"
-msgstr ""
+msgstr "Options du Template Auteur"
 
 #: ../framework/admin/framework-metaboxes.php:99
 msgid "User Roles"
-msgstr ""
+msgstr "Rôle de l\\'utilisateur"
 
 #: ../framework/admin/framework-metaboxes.php:115
 msgid "Post Head Options"
-msgstr ""
+msgstr "Options de l\\'Entête de l\\'article"
 
 #: ../framework/admin/framework-metaboxes.php:119
 msgid "Post Head Cover layout"
-msgstr ""
+msgstr "Layout de l\\'Entête de l\\'article"
 
 #: ../framework/admin/framework-metaboxes.php:124
 msgid "Display"
-msgstr ""
+msgstr "Afficher"
 
 #: ../framework/admin/framework-metaboxes.php:129
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #: ../framework/admin/framework-metaboxes.php:131
 msgid "Audio - Self Hosted"
-msgstr ""
+msgstr "Audio - Hébergement en ligne"
 
 #: ../framework/admin/framework-metaboxes.php:132
 msgid "Audio - SoundCloud"
-msgstr ""
+msgstr "Audio - SoundCloud"
 
 #: ../framework/admin/framework-metaboxes.php:135
 msgid "Featured Image"
-msgstr ""
+msgstr "Image à la une"
 
 #: ../framework/admin/framework-metaboxes.php:136
 msgid "Featured Image + Lightbox"
-msgstr ""
+msgstr "Image à la une + Lightbox"
 
 #: ../framework/admin/framework-metaboxes.php:140
 #: ../framework/widgets/widget-video.php:79
 msgid "Embed Code"
-msgstr ""
+msgstr "Embed Code"
 
 #: ../framework/admin/framework-metaboxes.php:145
 msgid ""
 "Video URL <br /><small>supports : YouTube, Vimeo, Viddler, Qik, Hulu, "
 "FunnyOrDie, DailyMotion, WordPress.tv and blip.tv</small>"
 msgstr ""
+"URL de la Vidéo <br /><small>Types supportés : YouTube, Vimeo, Viddler, Qik, "
+"Hulu, FunnyOrDie, DailyMotion, WordPress.tv et blip.tv</small>"
 
 #: ../framework/admin/framework-metaboxes.php:150
 msgid "Self Hosted Video"
-msgstr ""
+msgstr "Vidéo - Hébergement en ligne"
 
 #: ../framework/admin/framework-metaboxes.php:155
 #: ../framework/admin/framework-panel.php:857
 msgid "SoundCloud URL"
-msgstr ""
+msgstr "URL du SoundCloud"
 
 #: ../framework/admin/framework-metaboxes.php:160
 msgid "Auto Play"
-msgstr ""
+msgstr "Jouer automatiquement"
 
 #: ../framework/admin/framework-metaboxes.php:165
 #: ../framework/widgets/widget-soundcloud.php:60
 msgid "Visual Style"
-msgstr ""
+msgstr "Style Visuel"
 
 #: ../framework/admin/framework-metaboxes.php:180
 msgid "OGA file URL"
-msgstr ""
+msgstr "URL du fichier OGG"
 
 #: ../framework/admin/framework-metaboxes.php:200
 msgid "Sidebar Options"
-msgstr ""
+msgstr "Options de la Sidebar"
 
 #: ../framework/admin/framework-metaboxes.php:225
 msgid "Choose Sidebar"
-msgstr ""
+msgstr "Choisir Sidebar"
 
 #: ../framework/admin/framework-metaboxes.php:235
 msgid "Custom Styles"
-msgstr ""
+msgstr "Style Personnalisé"
 
 #: ../framework/admin/framework-metaboxes.php:239
 msgid "Custom color"
-msgstr ""
+msgstr "Couleur personnalisée"
 
 #: ../framework/admin/framework-metaboxes.php:258
 msgid "Ads Options"
-msgstr ""
+msgstr "Options des publicités"
 
 #: ../framework/admin/framework-metaboxes.php:262
 msgid "Hide Above Banner"
-msgstr ""
+msgstr "Cacher le dessus de la bannière"
 
 #: ../framework/admin/framework-metaboxes.php:267
 msgid "Custom Above Banner"
-msgstr ""
+msgstr " Personnaliser le dessus de la bannière"
 
 #: ../framework/admin/framework-metaboxes.php:272
 msgid "Hide Below Banner"
-msgstr ""
+msgstr "Cacher le dessous de la bannière"
 
 #: ../framework/admin/framework-metaboxes.php:277
 msgid "Custom Below Banner"
-msgstr ""
+msgstr " Personnaliser le dessous de la bannière"
 
 #: ../framework/admin/framework-metaboxes.php:292
 msgid "Hide Post Meta"
-msgstr ""
+msgstr "Cacher les meta de l\\'article"
 
 #: ../framework/admin/framework-metaboxes.php:300
 msgid "Hide Author Information"
-msgstr ""
+msgstr "Cacher les informations de l\\'auteur"
 
 #: ../framework/admin/framework-metaboxes.php:308
 msgid "Hide Share Buttons"
-msgstr ""
+msgstr "Cacher les boutons de partages"
 
 #: ../framework/admin/framework-metaboxes.php:316
 msgid "Hide Related Posts"
-msgstr ""
+msgstr "Cacher les articles en relation"
 
 #: ../framework/admin/framework-metaboxes.php:324
 msgid "Hide Fly Check Also Box"
-msgstr ""
+msgstr "Cacher le survole des check box"
 
 #: ../framework/admin/framework-options.php:14
 msgid "Default Font"
@@ -1756,489 +1766,504 @@ msgstr "Plus de thème"
 
 #: ../framework/admin/framework-panel.php:213
 msgid "bbPress Settings"
-msgstr ""
+msgstr "Configuration de bbPress"
 
 #: ../framework/admin/framework-panel.php:216
 msgid "bbPress Full width"
-msgstr ""
+msgstr "bbPress en plein écran"
 
 #: ../framework/admin/framework-panel.php:224
 msgid "Theme Layout"
-msgstr ""
+msgstr "Config du thème"
 
 #: ../framework/admin/framework-panel.php:248
 #: ../framework/admin/framework-panel.php:251
 msgid "Custom Favicon"
-msgstr ""
+msgstr "Favicon Personnalisée"
 
 #: ../framework/admin/framework-panel.php:257
 #: ../framework/admin/framework-panel.php:260
 msgid "Custom Gravatar"
-msgstr ""
+msgstr "Gravatar Personnalisé"
 
 #: ../framework/admin/framework-panel.php:266
 msgid "Apple Icons"
-msgstr ""
+msgstr "Icones Apple"
 
 #: ../framework/admin/framework-panel.php:269
 msgid "Apple iPhone Icon"
-msgstr ""
+msgstr "Icones iPhone Apple"
 
 #: ../framework/admin/framework-panel.php:272
 msgid "Icon for Apple iPhone (57px x 57px)"
-msgstr ""
+msgstr "Icones pour iPhone d\\'Apple (57px x 57px)"
 
 #: ../framework/admin/framework-panel.php:275
 msgid "Apple iPhone Retina Icon"
-msgstr ""
+msgstr "Icones iPhone Retina Apple"
 
 #: ../framework/admin/framework-panel.php:278
 msgid "Icon for Apple iPhone Retina Version (120px x 120px)"
-msgstr ""
+msgstr "Icones pour iPhone Retina d\\'Apple  (120px x 120px)"
 
 #: ../framework/admin/framework-panel.php:281
 msgid "Apple iPad Icon"
-msgstr ""
+msgstr "Icones iPad Apple"
 
 #: ../framework/admin/framework-panel.php:284
 msgid "Icon for Apple iPhone (72px x 72px)"
-msgstr ""
+msgstr "Icones pour iPhone Apple  (72px x 72px)"
 
 #: ../framework/admin/framework-panel.php:287
 msgid "Apple iPad Retina Icon"
-msgstr ""
+msgstr "Icones iPad Retina Apple"
 
 #: ../framework/admin/framework-panel.php:290
 msgid "Icon for Apple iPad Retina Version (144px x 144px)"
-msgstr ""
+msgstr "Icones pour iPad Retina Apple (144px x 144px)"
 
 #: ../framework/admin/framework-panel.php:296
 msgid "Time format"
-msgstr ""
+msgstr "Format du temps"
 
 #: ../framework/admin/framework-panel.php:299
 msgid "Time format for blog posts"
-msgstr ""
+msgstr "Format du temps pour les articles du blod"
 
 #: ../framework/admin/framework-panel.php:302
 msgid "Traditional"
-msgstr ""
+msgstr "Traditionnel"
 
 #: ../framework/admin/framework-panel.php:303
 msgid "Time Ago Format"
-msgstr ""
+msgstr "Format du temps depuis"
 
 #: ../framework/admin/framework-panel.php:304
 msgid "Disable all"
-msgstr ""
+msgstr "Désactiver tout"
 
 #: ../framework/admin/framework-panel.php:309
 msgid "Lightbox Settings"
-msgstr ""
+msgstr "Configuration de la Lightbox"
 
 #: ../framework/admin/framework-panel.php:312
 msgid "Enable Lightbox Automatically"
-msgstr ""
+msgstr "Activer la Lightbox automatiquement"
 
 #: ../framework/admin/framework-panel.php:313
 msgid ""
 "Enable Lightbox automatically for all images linked to an image file in the "
 "post content area"
 msgstr ""
+"Activer la Lightbox automatiquement pour toutes les images linkées "
+"illustrant le contenu de l'article"
 
 #: ../framework/admin/framework-panel.php:318
 msgid "Enable Lightbox for WordPress Galleries"
-msgstr ""
+msgstr "Activer la Lightbox pour les galeries WordPress"
 
 #: ../framework/admin/framework-panel.php:319
 msgid ""
 "Enable Lightbox automatically for all images added via [gallery] shortcode "
 "in the content area"
 msgstr ""
+"Activer la Lightbox automatiquement pour toutes les images ajoutées via le "
+"shortcode [gallery] dans un contenu"
 
 #: ../framework/admin/framework-panel.php:324
 msgid "Lightbox Skin"
-msgstr ""
+msgstr "Thème de la Lightbox"
 
 #: ../framework/admin/framework-panel.php:336
 msgid "Lightbox Thumbnail Position"
-msgstr ""
+msgstr "Position de la miniature de la Lightbox"
 
 #: ../framework/admin/framework-panel.php:343
 msgid "Show Lightbox Arrows"
-msgstr ""
+msgstr "Montrer les flèches de la Lightbox"
 
 #: ../framework/admin/framework-panel.php:352
 msgid "Breadcrumbs Settings"
-msgstr ""
+msgstr "Configuration du fil d\\'Ariane"
 
 #: ../framework/admin/framework-panel.php:355
 msgid "Breadcrumbs"
-msgstr ""
+msgstr "Fil d\\'Ariane"
 
 #: ../framework/admin/framework-panel.php:360
 msgid "Breadcrumbs Delimiter"
-msgstr ""
+msgstr "Délimiteur du Fil d\\'Ariane"
 
 #: ../framework/admin/framework-panel.php:367
 msgid "Header Code"
-msgstr ""
+msgstr "Code à insérer dans le header"
 
 #: ../framework/admin/framework-panel.php:369
 msgid ""
 "The following code will add to the &lt;head&gt; tag. Useful if you need to "
 "add additional codes such as CSS or JS."
 msgstr ""
+"Le code a été ajouté dans la balise  &lt;head&gt; . Utile si vous devez "
+"ajouter des codes supplémentaires comme du CSS ou JS."
 
 #: ../framework/admin/framework-panel.php:375
 msgid "Footer Code"
-msgstr ""
+msgstr "Code à insérer dans le Footer Pied de page"
 
 #: ../framework/admin/framework-panel.php:377
 msgid ""
 "The following code will add to the footer before the closing  &lt;/body&gt; "
 "tag. Useful if you need to add Javascript or tracking code."
 msgstr ""
+"Le code a été ajouté au Footer avant la fermeture de la balise &lt;/"
+"body&gt; . Utile si vous devez ajouter du code supplémentaires comme "
+"JavaScript ou bien encore le code de tracking Google par exemple."
 
 #: ../framework/admin/framework-panel.php:388
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: ../framework/admin/framework-panel.php:391
 msgid "Logo Settings"
-msgstr ""
+msgstr "Configuration Logo"
 
 #: ../framework/admin/framework-panel.php:395
 msgid "Display Site Title"
-msgstr ""
+msgstr "Afficher le titre du site"
 
 #: ../framework/admin/framework-panel.php:398
 msgid "Logo Image"
-msgstr ""
+msgstr "Image du Logo"
 
 #: ../framework/admin/framework-panel.php:400
 msgid ""
 "Upload a logo image, or enter URL to an image if it is already uploaded. the "
 "theme default logo gets applied if the input field is left blank."
 msgstr ""
+"Uploader l\\'image de votre logo ou entrez l\\'URL de votre logo "
+"précédemment uploadé. Si le champs reste vide, le logo par défaut du thème "
+"sera appliqué"
 
 #: ../framework/admin/framework-panel.php:402
 msgid "Recommended size (MAX) : 190px x 60px"
-msgstr ""
+msgstr "Taille recommandée maximum : 190px X 60px"
 
 #: ../framework/admin/framework-panel.php:426
 msgid "Input number to set the top space of the logo."
 msgstr ""
+"Entrer un nombre pour définir la hauteur de la marge de l'espace du logo."
 
 #: ../framework/admin/framework-panel.php:435
 msgid "Input number to set the bottom space of the logo."
-msgstr ""
+msgstr "Entrer un nombre pour définir la marge basse de l'espace du logo."
 
 #: ../framework/admin/framework-panel.php:441
 msgid "Full Width Logo"
-msgstr ""
+msgstr "Logo plein écran"
 
 #: ../framework/admin/framework-panel.php:444
 msgid "Recommended logo width : 1045px"
-msgstr ""
+msgstr "Largeur recommandée maximum : 1045px"
 
 #: ../framework/admin/framework-panel.php:447
 msgid "Center the Logo"
-msgstr ""
+msgstr "Centrer le logo"
 
 #: ../framework/admin/framework-panel.php:456
 msgid "Header Top area Settings"
-msgstr ""
+msgstr "Configuration de la partie Header"
 
 #: ../framework/admin/framework-panel.php:459
 msgid "Top menu"
-msgstr ""
+msgstr "Menu haut"
 
 #: ../framework/admin/framework-panel.php:464
 msgid "Today's Date"
-msgstr ""
+msgstr "Date du jour"
 
 #: ../framework/admin/framework-panel.php:469
 msgid "Today's Date Format"
-msgstr ""
+msgstr "Format de la date du jour"
 
 #: ../framework/admin/framework-panel.php:472
 msgid "Documentation on date and time formatting"
-msgstr ""
+msgstr "Documentation sur les formats de la date et du temps"
 
 #: ../framework/admin/framework-panel.php:480
 msgid "Live Search"
-msgstr ""
+msgstr "Recherche direct"
 
 #: ../framework/admin/framework-panel.php:485
 #: ../framework/admin/framework-panel.php:539
 #: ../framework/admin/framework-panel.php:1296
 #: ../framework/widgets/widget-social.php:11
 msgid "Social Icons"
-msgstr ""
+msgstr "Icones sociaux"
 
 #: ../framework/admin/framework-panel.php:493
 msgid "Main Nav Settings"
-msgstr ""
+msgstr "Configuration du menu principal"
 
 #: ../framework/admin/framework-panel.php:496
 msgid "Main Nav"
-msgstr ""
+msgstr "Menu Principal"
 
 #: ../framework/admin/framework-panel.php:501
 msgid "Random Article Button"
-msgstr ""
+msgstr "Bouton Article aléatoire"
 
 #: ../framework/admin/framework-panel.php:507
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Panier"
 
 #: ../framework/admin/framework-panel.php:512
 msgid "Stick The Navigation menu"
-msgstr ""
+msgstr "Collez au menu de Navigation"
 
 #: ../framework/admin/framework-panel.php:517
 msgid "Logo in the sticky Navigation menu"
-msgstr ""
+msgstr "Logo dans le menu collé de Navigation"
 
 #: ../framework/admin/framework-panel.php:526
 msgid "Responsive Mobile Menu Settings"
-msgstr ""
+msgstr "Configuration du menu Responsif de la version du site mobile"
 
 #: ../framework/admin/framework-panel.php:529
 msgid "Enable the Mobile Menu"
-msgstr ""
+msgstr "Activer le menu mobile"
 
 #: ../framework/admin/framework-panel.php:544
 msgid "Show the Top Menu items in the Mobile Menu below the Main Menu items ?"
 msgstr ""
+"Montrer les articles du Menu Supérieurs dans le Menu Mobile, au-dessous des "
+"articles dans le Menu Principal"
 
 #: ../framework/admin/framework-panel.php:549
 msgid "Enable Mobile Menu Items Icons"
-msgstr ""
+msgstr "Activer les icones dans les items du menu mobile"
 
 #: ../framework/admin/framework-panel.php:559
 #: ../framework/functions/translation.php:102
 #: ../framework/parts/breaking-news.php:21
 msgid "Breaking News"
-msgstr ""
+msgstr "Breaking News"
 
 #: ../framework/admin/framework-panel.php:567
 msgid "Show in Homepage Only"
-msgstr ""
+msgstr "Afficher seulement sur la home page"
 
 #: ../framework/admin/framework-panel.php:577
 msgid "Slide"
-msgstr ""
+msgstr "Slide"
 
 #: ../framework/admin/framework-panel.php:578
 msgid "Ticker"
-msgstr ""
+msgstr "Ticker"
 
 #: ../framework/admin/framework-panel.php:590
 msgid "Time between the fades"
-msgstr ""
+msgstr "Durée du fondu"
 
 #: ../framework/admin/framework-panel.php:599
 msgid "Breaking News Query Type"
-msgstr ""
+msgstr "Breaking News sur les critères de"
 
 #: ../framework/admin/framework-panel.php:604
 msgid "Custom Text"
-msgstr ""
+msgstr "Texte personnalisé"
 
 #: ../framework/admin/framework-panel.php:613
 msgid "Breaking News Tags"
-msgstr ""
+msgstr "Breaking News Tags"
 
 #: ../framework/admin/framework-panel.php:621
 msgid "Breaking News Categories"
-msgstr ""
+msgstr "Breaking News Catégories"
 
 #: ../framework/admin/framework-panel.php:634
 msgid "Breaking News Custom Text"
-msgstr ""
+msgstr "Breaking News texte personnalisé"
 
 #: ../framework/admin/framework-panel.php:637
 #: ../framework/widgets/widget-text-html.php:66
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: ../framework/admin/framework-panel.php:639
 msgid "Link"
-msgstr ""
+msgstr "Lien"
 
 #: ../framework/admin/framework-panel.php:671
 #: ../framework/admin/framework-panel.php:680
 msgid "Custom Feed URL"
-msgstr ""
+msgstr "URL Personnalisée du flux"
 
 #: ../framework/admin/framework-panel.php:675
 #: ../framework/admin/framework-panel.php:2019
 #: ../framework/admin/framework-panel.php:2062
 #: ../framework/admin/framework-panel.php:2105
 msgid "RSS Icon"
-msgstr ""
+msgstr "Icône RSS"
 
 #: ../framework/admin/framework-panel.php:691
 #: ../framework/functions/theme-functions.php:666
 msgid "Facebook URL"
-msgstr ""
+msgstr "URL Facebook"
 
 #: ../framework/admin/framework-panel.php:696
 msgid "Twitter URL"
-msgstr ""
+msgstr "URL Twitter "
 
 #: ../framework/admin/framework-panel.php:701
 #: ../framework/functions/theme-functions.php:654
 msgid "Google+ URL"
-msgstr ""
+msgstr "URL Google+"
 
 #: ../framework/admin/framework-panel.php:707
 msgid "Dribbble URL"
-msgstr ""
+msgstr "URL Dribbble"
 
 #: ../framework/admin/framework-panel.php:713
 #: ../framework/functions/theme-functions.php:672
 msgid "LinkedIn URL"
-msgstr ""
+msgstr "URL LinkedIn"
 
 #: ../framework/admin/framework-panel.php:719
 msgid "Evernote URL"
-msgstr ""
+msgstr "URL Evernote"
 
 #: ../framework/admin/framework-panel.php:725
 msgid "Dropbox URL"
-msgstr ""
+msgstr "URL Dropbox"
 
 #: ../framework/admin/framework-panel.php:731
 #: ../framework/functions/theme-functions.php:678
 msgid "Flickr URL"
-msgstr ""
+msgstr "URL Flickr"
 
 #: ../framework/admin/framework-panel.php:737
 msgid "Picasa Web URL"
-msgstr ""
+msgstr "URL Picasa Web"
 
 #: ../framework/admin/framework-panel.php:743
 msgid "DeviantArt URL"
-msgstr ""
+msgstr "URL DeviantArt"
 
 #: ../framework/admin/framework-panel.php:749
 #: ../framework/functions/theme-functions.php:684
 msgid "YouTube URL"
-msgstr ""
+msgstr "URL YouTube"
 
 #: ../framework/admin/framework-panel.php:755
 msgid "Grooveshark URL"
-msgstr ""
+msgstr "URL Grooveshark"
 
 #: ../framework/admin/framework-panel.php:761
 msgid "Vimeo URL"
-msgstr ""
+msgstr "URL Vimeo"
 
 #: ../framework/admin/framework-panel.php:767
 msgid "ShareThis URL"
-msgstr ""
+msgstr "URL ShareThis"
 
 #: ../framework/admin/framework-panel.php:773
 msgid "500px URL"
-msgstr ""
+msgstr "URL 500px"
 
 #: ../framework/admin/framework-panel.php:779
 msgid "Skype URL"
-msgstr ""
+msgstr "URL Skype"
 
 #: ../framework/admin/framework-panel.php:785
 msgid "Digg URL"
-msgstr ""
+msgstr "URL Digg"
 
 #: ../framework/admin/framework-panel.php:791
 msgid "Reddit URL"
-msgstr ""
+msgstr "URL Reddit"
 
 #: ../framework/admin/framework-panel.php:797
 msgid "Delicious URL"
-msgstr ""
+msgstr "URL Delicious"
 
 #: ../framework/admin/framework-panel.php:803
 msgid "StumbleUpon  URL"
-msgstr ""
+msgstr "URL StumbleUpon"
 
 #: ../framework/admin/framework-panel.php:809
 msgid "Tumblr URL"
-msgstr ""
+msgstr "URL Tumblr"
 
 #: ../framework/admin/framework-panel.php:815
 msgid "Blogger URL"
-msgstr ""
+msgstr "URL Blogger"
 
 #: ../framework/admin/framework-panel.php:821
 msgid "WordPress URL"
-msgstr ""
+msgstr "URL WordPress"
 
 #: ../framework/admin/framework-panel.php:827
 msgid "Yelp URL"
-msgstr ""
+msgstr "URL Yelp"
 
 #: ../framework/admin/framework-panel.php:833
 msgid "Last.fm URL"
-msgstr ""
+msgstr "URL Last.fm"
 
 #: ../framework/admin/framework-panel.php:839
 msgid "Apple URL"
-msgstr ""
+msgstr "URL Apple"
 
 #: ../framework/admin/framework-panel.php:845
 msgid "FourSquare URL"
-msgstr ""
+msgstr "URL FourSquare"
 
 #: ../framework/admin/framework-panel.php:851
 msgid "Github URL"
-msgstr ""
+msgstr "URL Github"
 
 #: ../framework/admin/framework-panel.php:863
 msgid "XING URL"
-msgstr ""
+msgstr "URL XING"
 
 #: ../framework/admin/framework-panel.php:869
 msgid "Google Play URL"
-msgstr ""
+msgstr "URL Google Play"
 
 #: ../framework/admin/framework-panel.php:875
 #: ../framework/functions/theme-functions.php:690
 msgid "Pinterest URL"
-msgstr ""
+msgstr "URL Pinterest"
 
 #: ../framework/admin/framework-panel.php:881
 #: ../framework/functions/theme-functions.php:702
 msgid "Instagram URL"
-msgstr ""
+msgstr "URL Instagram"
 
 #: ../framework/admin/framework-panel.php:887
 msgid "Spotify URL"
-msgstr ""
+msgstr "URL Spotify"
 
 #: ../framework/admin/framework-panel.php:893
 msgid "PayPal URL"
-msgstr ""
+msgstr "URL PayPal"
 
 #: ../framework/admin/framework-panel.php:899
 msgid "Forrst URL"
-msgstr ""
+msgstr "URL Forrst"
 
 #: ../framework/admin/framework-panel.php:905
 #: ../framework/functions/theme-functions.php:696
 msgid "Behance URL"
-msgstr ""
+msgstr "URL Behance"
 
 #: ../framework/admin/framework-panel.php:911
 msgid "Viadeo URL"
-msgstr ""
+msgstr "URL Viadeo"
 
 #: ../framework/admin/framework-panel.php:917
 msgid "VK.com URL"
-msgstr ""
+msgstr "URL VK.com"
 
 #: ../framework/admin/framework-panel.php:925
 #: ../framework/admin/framework-panel.php:950
@@ -2246,7 +2271,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1000
 #: ../framework/admin/framework-panel.php:1025
 msgid "Custom Social Network"
-msgstr ""
+msgstr "Réseaux sociaux personnalisés"
 
 #: ../framework/admin/framework-panel.php:933
 #: ../framework/admin/framework-panel.php:958
@@ -2254,7 +2279,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1008
 #: ../framework/admin/framework-panel.php:1033
 msgid "Icon (use full Font Awesome name)"
-msgstr ""
+msgstr "Icône"
 
 #: ../framework/admin/framework-panel.php:938
 #: ../framework/admin/framework-panel.php:963
@@ -2263,7 +2288,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1038
 #: ../framework/functions/mega-menus.php:621
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../framework/admin/framework-panel.php:943
 #: ../framework/admin/framework-panel.php:968
@@ -2271,168 +2296,168 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1018
 #: ../framework/admin/framework-panel.php:1043
 msgid "Color"
-msgstr ""
+msgstr "Couleur:"
 
 #: ../framework/admin/framework-panel.php:1060
 msgid "Show Featured Image By Default"
-msgstr ""
+msgstr "Montrer Image à la une par défaut"
 
 #: ../framework/admin/framework-panel.php:1065
 msgid "Post Author Box"
-msgstr ""
+msgstr "Box des options auteur"
 
 #: ../framework/admin/framework-panel.php:1070
 msgid "Next/Prev Articles"
-msgstr ""
+msgstr "Suiv/Préc Articles"
 
 #: ../framework/admin/framework-panel.php:1075
 msgid "OG Meta"
-msgstr ""
+msgstr "OG Meta"
 
 #: ../framework/admin/framework-panel.php:1080
 msgid "Reading Position Indicator"
-msgstr ""
+msgstr "Indicateur de position de lecture"
 
 #: ../framework/admin/framework-panel.php:1088
 msgid "Post Meta Settings"
-msgstr ""
+msgstr "Configuration des meta des articles"
 
 #: ../framework/admin/framework-panel.php:1091
 #: ../framework/admin/framework-panel.php:2663
 msgid "Post Meta"
-msgstr ""
+msgstr "Meta article"
 
 #: ../framework/admin/framework-panel.php:1116
 msgid "Tags Meta"
-msgstr ""
+msgstr "mots-clés"
 
 #: ../framework/admin/framework-panel.php:1132
 msgid "Share Post Settings"
-msgstr ""
+msgstr "Configuration du partage de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1135
 msgid "Bottom Share Post Buttons"
-msgstr ""
+msgstr "Boutons de partage sous l\\'article"
 
 #: ../framework/admin/framework-panel.php:1140
 msgid "Top Share Post Buttons"
-msgstr ""
+msgstr "Boutons de partage au dessus de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1145
 msgid "Share Buttons for Pages"
-msgstr ""
+msgstr "Boutons de partage pour les pages"
 
 #: ../framework/admin/framework-panel.php:1150
 msgid "Share Buttons type"
-msgstr ""
+msgstr "Type de Boutons de partage"
 
 #: ../framework/admin/framework-panel.php:1153
 msgid "Buttons with counters"
-msgstr ""
+msgstr "Boutons avec compteur"
 
 #: ../framework/admin/framework-panel.php:1154
 msgid "Flat Buttons"
-msgstr ""
+msgstr "Gros boutons"
 
 #: ../framework/admin/framework-panel.php:1157
 msgid "Use the post's Short Link"
-msgstr ""
+msgstr "Utiliser le lien raccourci"
 
 #: ../framework/admin/framework-panel.php:1167
 msgid "Twitter Username <small>(optional)</small>"
-msgstr ""
+msgstr "Nom d\\'utilisateur Twitter <small>(optionnel)</small>"
 
 #: ../framework/admin/framework-panel.php:1182
 msgid "LinkedIn Button"
-msgstr ""
+msgstr "Bouton LinkedIn"
 
 #: ../framework/admin/framework-panel.php:1187
 msgid "StumbleUpon Button"
-msgstr ""
+msgstr "Bouton StumbleUpon"
 
 #: ../framework/admin/framework-panel.php:1203
 msgid "Related Posts Settings"
-msgstr ""
+msgstr "Configuration des articles en relations"
 
 #: ../framework/admin/framework-panel.php:1206
 msgid "Related Posts"
-msgstr ""
+msgstr "Articles en relations"
 
 #: ../framework/admin/framework-panel.php:1211
 msgid "Related Posts Position"
-msgstr ""
+msgstr "Positions des articles en relations"
 
 #: ../framework/admin/framework-panel.php:1214
 msgid "In the post content area"
-msgstr ""
+msgstr "Dans le contenu de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1215
 msgid "Below the post area"
-msgstr ""
+msgstr "Après le contenu de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1223
 msgid "Number of posts to show in Full width pages"
-msgstr ""
+msgstr "Nombres d\\'articles à afficher en pleine écran"
 
 #: ../framework/admin/framework-panel.php:1231
 #: ../framework/admin/framework-panel.php:1263
 msgid "Posts in the same Categories"
-msgstr ""
+msgstr "Articles dans la même catégorie"
 
 #: ../framework/admin/framework-panel.php:1232
 #: ../framework/admin/framework-panel.php:1264
 msgid "Posts in the same Tags"
-msgstr ""
+msgstr "Articles avec les mêmes mots-clés"
 
 #: ../framework/admin/framework-panel.php:1233
 #: ../framework/admin/framework-panel.php:1265
 msgid "Posts by the same Author"
-msgstr ""
+msgstr "Articles du même auteur"
 
 #: ../framework/admin/framework-panel.php:1240
 msgid "Fly Check Also Box"
-msgstr ""
+msgstr "Contrôler aussi le survole des check box"
 
 #: ../framework/admin/framework-panel.php:1243
 msgid "Check Also Box"
-msgstr ""
+msgstr "Contrôler aussi les box"
 
 #: ../framework/admin/framework-panel.php:1248
 msgid "Check Also Box Position"
-msgstr ""
+msgstr "Contrôler aussi la position des box"
 
 #: ../framework/admin/framework-panel.php:1272
 msgid "jQuery Comments Settings"
-msgstr ""
+msgstr "Configuration des commentaires jQuery"
 
 #: ../framework/admin/framework-panel.php:1275
 msgid "Adding Comment Validation"
-msgstr ""
+msgstr "Ajouter un commentaire de validation"
 
 #: ../framework/admin/framework-panel.php:1288
 msgid "Footer Elements"
-msgstr ""
+msgstr "Eléments du footer "
 
 #: ../framework/admin/framework-panel.php:1291
 msgid "Go To Top Button"
-msgstr ""
+msgstr "Bouton Aller en haut"
 
 #: ../framework/admin/framework-panel.php:1304
 msgid "Footer Widgets layout"
-msgstr ""
+msgstr "Layout des Widgets du Footer"
 
 #: ../framework/admin/framework-panel.php:1307
 msgid "Footer Widgets"
-msgstr ""
+msgstr "Widgets du Footer"
 
 #: ../framework/admin/framework-panel.php:1354
 msgid "Footer Text One"
-msgstr ""
+msgstr "Footer Texte 1"
 
 #: ../framework/admin/framework-panel.php:1357
 #: ../framework/admin/framework-panel.php:1371
 msgid "Variables"
-msgstr ""
+msgstr "Variables"
 
 #: ../framework/admin/framework-panel.php:1358
 #: ../framework/admin/framework-panel.php:1372
@@ -2440,55 +2465,60 @@ msgid ""
 "These tags can be included in the textarea above and will be replaced when a "
 "page is displayed."
 msgstr ""
+"Ces tags, mots-clés peuvent être inclus dans le textarea ci-dessus et seront "
+"remplacées quand une page est affichée."
 
 #: ../framework/admin/framework-panel.php:1360
 #: ../framework/admin/framework-panel.php:1374
 msgid "Replaced with the current year."
-msgstr ""
+msgstr "Remplacer par l\\'année en cours."
 
 #: ../framework/admin/framework-panel.php:1361
 #: ../framework/admin/framework-panel.php:1375
 msgid "Replaced with The site's name."
-msgstr ""
+msgstr "Remplacer par le nom du site."
 
 #: ../framework/admin/framework-panel.php:1362
 #: ../framework/admin/framework-panel.php:1376
 msgid "Replaced with The site's URL."
-msgstr ""
+msgstr ".Remplacer par l\\'URL du site"
 
 #: ../framework/admin/framework-panel.php:1368
 msgid "Footer Text Two"
-msgstr ""
+msgstr "Footer Texte 2"
 
 #: ../framework/admin/framework-panel.php:1385
 msgid "Banners Settings"
-msgstr ""
+msgstr "Configuration de la bannière"
 
 #: ../framework/admin/framework-panel.php:1387
 msgid "Background Image ADS"
-msgstr ""
+msgstr "Arrière plan publicitaire"
 
 #: ../framework/admin/framework-panel.php:1390
 msgid "Enable Background Image ADS"
-msgstr ""
+msgstr "Activer Arrière plan publicitaire"
 
 #: ../framework/admin/framework-panel.php:1395
 msgid "Background Image ADS Link"
-msgstr ""
+msgstr "URL de l\\'image d\\'Arrière plan publicitaire"
 
 #: ../framework/admin/framework-panel.php:1400
 msgid ""
 "Go to Styling tab and set Background Type to Custom Background then upload "
 "your custom image and enable Full Screen Background option."
 msgstr ""
+"Allez à l\\'onglet Style et mettez l\\\"arrière plan personnalisé "
+"téléchargé, vous pourrez alors choisir l\\'option Plein écran de pour "
+"afficher un arrière plan personnalisé."
 
 #: ../framework/admin/framework-panel.php:1404
 msgid "Top Banner Area"
-msgstr ""
+msgstr "Zone de la Bannière (dite zone Top)"
 
 #: ../framework/admin/framework-panel.php:1407
 msgid "Top Banner"
-msgstr ""
+msgstr "Bannière"
 
 #: ../framework/admin/framework-panel.php:1412
 #: ../framework/admin/framework-panel.php:1488
@@ -2496,15 +2526,15 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1641
 #: ../framework/admin/framework-panel.php:1713
 msgid "Image Ad"
-msgstr ""
+msgstr "Image pub"
 
 #: ../framework/admin/framework-panel.php:1416
 msgid "Top Banner Image"
-msgstr ""
+msgstr "Image de la Bannière"
 
 #: ../framework/admin/framework-panel.php:1421
 msgid "Top Banner Link"
-msgstr ""
+msgstr "Lien de la bannière"
 
 #: ../framework/admin/framework-panel.php:1426
 #: ../framework/admin/framework-panel.php:1502
@@ -2512,7 +2542,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1655
 #: ../framework/admin/framework-panel.php:1727
 msgid "Alternative Text For The image"
-msgstr ""
+msgstr "Texte alternatif pour l\\'image"
 
 #: ../framework/admin/framework-panel.php:1431
 #: ../framework/admin/framework-panel.php:1507
@@ -2520,7 +2550,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1660
 #: ../framework/admin/framework-panel.php:1732
 msgid "Open The Link In a new Tab"
-msgstr ""
+msgstr "Ouvrir le lien dans un nouvel onglet"
 
 #: ../framework/admin/framework-panel.php:1436
 #: ../framework/admin/framework-panel.php:1512
@@ -2528,7 +2558,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1665
 #: ../framework/admin/framework-panel.php:1737
 msgid "Nofollow"
-msgstr ""
+msgstr "Nofollow"
 
 #: ../framework/admin/framework-panel.php:1441
 #: ../framework/admin/framework-panel.php:1517
@@ -2536,7 +2566,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1670
 #: ../framework/admin/framework-panel.php:1742
 msgid "Responsive Google AdSense"
-msgstr ""
+msgstr "Google Code Adsense Responsif"
 
 #: ../framework/admin/framework-panel.php:1445
 #: ../framework/admin/framework-panel.php:1521
@@ -2544,13 +2574,13 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1674
 #: ../framework/admin/framework-panel.php:1746
 msgid "Publisher ID"
-msgstr ""
+msgstr "Publisher ID"
 
 #: ../framework/admin/framework-panel.php:1450
 #: ../framework/admin/framework-panel.php:1526
 #: ../framework/admin/framework-panel.php:1602
 msgid "728x90 (Leaderboard) - ad ID"
-msgstr ""
+msgstr "728x90 (Leaderboard) - ad ID"
 
 #: ../framework/admin/framework-panel.php:1455
 #: ../framework/admin/framework-panel.php:1531
@@ -2558,7 +2588,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1679
 #: ../framework/admin/framework-panel.php:1751
 msgid "468x60 (Banner) - ad ID"
-msgstr ""
+msgstr "468x60 (Banner) - ad ID"
 
 #: ../framework/admin/framework-panel.php:1460
 #: ../framework/admin/framework-panel.php:1536
@@ -2566,7 +2596,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1684
 #: ../framework/admin/framework-panel.php:1756
 msgid "300x250 (Medium Rectangle) - ad ID"
-msgstr ""
+msgstr "300x250 (Medium Rectangle) - ad ID"
 
 #: ../framework/admin/framework-panel.php:1466
 #: ../framework/admin/framework-panel.php:1542
@@ -2574,7 +2604,7 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1690
 #: ../framework/admin/framework-panel.php:1762
 msgid "Custom Code"
-msgstr ""
+msgstr "Code personnalisé"
 
 #: ../framework/admin/framework-panel.php:1470
 #: ../framework/admin/framework-panel.php:1546
@@ -2582,211 +2612,215 @@ msgstr ""
 #: ../framework/admin/framework-panel.php:1694
 #: ../framework/admin/framework-panel.php:1766
 msgid "Custom Ad Code"
-msgstr ""
+msgstr "Ajouter Code personnalisé"
 
 #: ../framework/admin/framework-panel.php:1480
 msgid "Bottom Banner Area"
-msgstr ""
+msgstr "Sous la zone de la bannière"
 
 #: ../framework/admin/framework-panel.php:1483
 msgid "Bottom Banner"
-msgstr ""
+msgstr "Sous le bannière"
 
 #: ../framework/admin/framework-panel.php:1492
 #: ../framework/admin/framework-panel.php:1568
 msgid "Bottom Banner Image"
-msgstr ""
+msgstr "Image sous la bannière"
 
 #: ../framework/admin/framework-panel.php:1497
 #: ../framework/admin/framework-panel.php:1573
 msgid "Bottom Banner Link"
-msgstr ""
+msgstr "Lien sous la bannière"
 
 #: ../framework/admin/framework-panel.php:1556
 msgid "Below Header Banner Area"
-msgstr ""
+msgstr "Au dessous de la zone header de la bannière"
 
 #: ../framework/admin/framework-panel.php:1559
 msgid "Below Header Banner"
-msgstr ""
+msgstr "Au dessous la bannière"
 
 #: ../framework/admin/framework-panel.php:1633
 msgid "Above Article Banner Area"
-msgstr ""
+msgstr "Après la zone de la bannière"
 
 #: ../framework/admin/framework-panel.php:1636
 msgid "Above Article Banner"
-msgstr ""
+msgstr "Après la bannière de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1645
 msgid "Above Article Banner Image"
-msgstr ""
+msgstr "Après l\\'image de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1650
 msgid "Above Article Banner Link"
-msgstr ""
+msgstr "Après le lien de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1705
 msgid "Below Article Banner Area"
-msgstr ""
+msgstr "Au dessous de la zone de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1708
 msgid "Below Article Banner"
-msgstr ""
+msgstr "Au dessous de la bannière de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1717
 msgid "Below Article Banner Image"
-msgstr ""
+msgstr "Au dessous de l\\'image de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1722
 msgid "Below Article Banner Link"
-msgstr ""
+msgstr "Au dessous du lien de l\\'article"
 
 #: ../framework/admin/framework-panel.php:1776
 msgid "Shortcode ADS"
-msgstr ""
+msgstr "Shortcode Publicités"
 
 #: ../framework/admin/framework-panel.php:1779
 msgid "[ads1] Shortcode Banner"
-msgstr ""
+msgstr "[ads1] Shortcode Banner"
 
 #: ../framework/admin/framework-panel.php:1784
 msgid "[ads2] Shortcode Banner"
-msgstr ""
+msgstr "[ads2] Shortcode Banner"
 
 #: ../framework/admin/framework-panel.php:1797
 msgid "Default Sidebar Position"
-msgstr ""
+msgstr "Positien par défaut de la sidebar"
 
 #: ../framework/admin/framework-panel.php:1816
 msgid "Sticky Sidebars"
-msgstr ""
+msgstr "Sidebars épinglées"
 
 #: ../framework/admin/framework-panel.php:1819
 msgid "Sticky Sidebar"
-msgstr ""
+msgstr "Sidebar épinglée"
 
 #: ../framework/admin/framework-panel.php:1824
 msgid "Disable on the homepage"
-msgstr ""
+msgstr "Désactiver sur l'accueil"
 
 #: ../framework/admin/framework-panel.php:1829
 msgid "Disable on category pages"
-msgstr ""
+msgstr "Désactiver sur les pages Catégories"
 
 #: ../framework/admin/framework-panel.php:1834
 msgid "Disable on tag pages"
-msgstr ""
+msgstr "Désactiver sur les tags, mots-clés des pages"
 
 #: ../framework/admin/framework-panel.php:1839
 msgid "Disable on pages"
-msgstr ""
+msgstr "Désactiver sur les pages"
 
 #: ../framework/admin/framework-panel.php:1844
 msgid "Disable on posts"
-msgstr ""
+msgstr "Désactiver sur les articles"
 
 #: ../framework/admin/framework-panel.php:1853
 msgid "Add Sidebar"
-msgstr ""
+msgstr "Ajouter sidebar"
 
 #: ../framework/admin/framework-panel.php:1855
 msgid "Sidebar Name"
-msgstr ""
+msgstr "Nomde la Sidebar"
 
 #: ../framework/admin/framework-panel.php:1858
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #: ../framework/admin/framework-panel.php:1875
 msgid "Custom Sidebars"
-msgstr ""
+msgstr "Sidebars personnalisées"
 
 #: ../framework/admin/framework-panel.php:1890
 msgid "Home Sidebar"
-msgstr ""
+msgstr "Sidebar Accueil"
 
 #: ../framework/admin/framework-panel.php:1896
 msgid "Single Page Sidebar"
-msgstr ""
+msgstr "Sidebar pour les pages"
 
 #: ../framework/admin/framework-panel.php:1902
 msgid "Single Article Sidebar"
-msgstr ""
+msgstr "Sidebar pour les articles"
 
 #: ../framework/admin/framework-panel.php:1908
 msgid "Archives Sidebar"
-msgstr ""
+msgstr "Sidebar pour les  Archives"
 
 #: ../framework/admin/framework-panel.php:1915
 msgid "bbPress Sidebar"
-msgstr ""
+msgstr "Sidebar bbPress"
 
 #: ../framework/admin/framework-panel.php:1939
 msgid "Excerpt Length"
-msgstr ""
+msgstr "Longueur d\\'Extrait"
 
 #: ../framework/admin/framework-panel.php:1976
 msgid "Default layout settings"
-msgstr ""
+msgstr "Disposition par défaut"
 
 #: ../framework/admin/framework-panel.php:1982
 msgid "Choose the default layout"
-msgstr ""
+msgstr "Choisir la disposition par défaut"
 
 #: ../framework/admin/framework-panel.php:2005
 msgid "These settings will applies on all pages with blog List template."
 msgstr ""
+"La configuration sera appliquée à toutes les pages avec le Template blog"
 
 #: ../framework/admin/framework-panel.php:2011
 msgid "Category Page Settings"
-msgstr ""
+msgstr "Configuration Catégorie de Page"
 
 #: ../framework/admin/framework-panel.php:2014
 msgid "Category Description"
-msgstr ""
+msgstr "Description de catégorie "
 
 #: ../framework/admin/framework-panel.php:2026
 msgid "Choose Default Categories page layout"
-msgstr ""
+msgstr "Choisir la catégorie par défaut"
 
 #: ../framework/admin/framework-panel.php:2054
 msgid "Tag Page Settings"
-msgstr ""
+msgstr "Configuration des tags, mots-clés"
 
 #: ../framework/admin/framework-panel.php:2057
 msgid "Tag Description"
-msgstr ""
+msgstr "Description des tags, mots-clés"
 
 #: ../framework/admin/framework-panel.php:2070
 msgid "Choose Tags page layout"
-msgstr ""
+msgstr "Choisir le layout de la page tag"
 
 #: ../framework/admin/framework-panel.php:2097
 msgid "Author Page Settings"
-msgstr ""
+msgstr "Configuration Page Auteur"
 
 #: ../framework/admin/framework-panel.php:2112
 msgid "Choose Author page layout"
-msgstr ""
+msgstr "Chosir un layout pour la page auteur"
 
 #: ../framework/admin/framework-panel.php:2139
 msgid "Search Page Settings"
-msgstr ""
+msgstr "Configuration de la page de recherche"
 
 #: ../framework/admin/framework-panel.php:2142
 msgid "Search in Category IDs"
-msgstr ""
+msgstr "Recherche dans les IDs des catégories"
 
 #: ../framework/admin/framework-panel.php:2144
 msgid ""
 "Use minus sign (-) to exclude categories. Example: (1,4,-7) = search only in "
 "Category 1 & 4, and exclude Category 7."
 msgstr ""
+"Utuliser au moins un signe (-) pour exclure une ou des catégorie(s). Par "
+"exemple : (1,5,-7) = recherchera les catégories 1 et 4 et exclura la "
+"catégorie 7"
 
 #: ../framework/admin/framework-panel.php:2148
 msgid "Exclude Pages in results"
-msgstr ""
+msgstr "Exclure des pages dans les résultats"
 
 #: ../framework/admin/framework-panel.php:2155
 msgid "Choose Search results page layout"
@@ -4568,7 +4602,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1019
 #: ../framework/widgets/widget-ads.php:1131
 msgid "Open links in a new window:"
-msgstr ""
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
 
 #: ../framework/widgets/widget-ads.php:95
 #: ../framework/widgets/widget-ads.php:215
@@ -4581,7 +4615,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1023
 #: ../framework/widgets/widget-ads.php:1135
 msgid "Nofollow:"
-msgstr ""
+msgstr "Nofollow:"
 
 #: ../framework/widgets/widget-ads.php:99
 #: ../framework/widgets/widget-ads.php:219
@@ -4589,7 +4623,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:462
 #: ../framework/widgets/widget-ads.php:583
 msgid "One column:"
-msgstr ""
+msgstr "Une colonne :"
 
 #: ../framework/widgets/widget-ads.php:104
 #: ../framework/widgets/widget-ads.php:224
@@ -4598,7 +4632,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:588
 #: ../framework/widgets/widget-ads.php:1028
 msgid "ADS"
-msgstr ""
+msgstr "PUBS"
 
 #: ../framework/widgets/widget-ads.php:106
 #: ../framework/widgets/widget-ads.php:226
@@ -4608,7 +4642,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1030
 #, php-format
 msgid "Ads %s image path:"
-msgstr ""
+msgstr "Pub %s url de l\\'image :"
 
 #: ../framework/widgets/widget-ads.php:110
 #: ../framework/widgets/widget-ads.php:230
@@ -4618,7 +4652,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1034
 #, php-format
 msgid "Ads %s Link:"
-msgstr ""
+msgstr "Pub %s  liens :"
 
 #: ../framework/widgets/widget-ads.php:114
 #: ../framework/widgets/widget-ads.php:234
@@ -4628,338 +4662,340 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1038
 #, php-format
 msgid "Ads %s Adsense code:"
-msgstr ""
+msgstr "Pub %s code Adsense :"
 
 #: ../framework/widgets/widget-ads.php:133
 msgid "Ads 120*90"
-msgstr ""
+msgstr "Pub 120*90"
 
 #: ../framework/widgets/widget-ads.php:254
 msgid "Ads 120*60"
-msgstr ""
+msgstr "Pub 120*60"
 
 #: ../framework/widgets/widget-ads.php:376
 msgid "Ads 120*600"
-msgstr ""
+msgstr "Pub 120*600"
 
 #: ../framework/widgets/widget-ads.php:497
 msgid "Ads 120*240"
-msgstr ""
+msgstr "Pub 120*240"
 
 #: ../framework/widgets/widget-ads.php:617
 msgid "Ads 160*600"
-msgstr ""
+msgstr "Pub 160*650"
 
 #: ../framework/widgets/widget-ads.php:698
 #: ../framework/widgets/widget-ads.php:806
 #: ../framework/widgets/widget-ads.php:915
 #: ../framework/widgets/widget-ads.php:1139
 msgid "ADS:"
-msgstr ""
+msgstr "Publicités"
 
 #: ../framework/widgets/widget-ads.php:700
 #: ../framework/widgets/widget-ads.php:808
 #: ../framework/widgets/widget-ads.php:917
 #: ../framework/widgets/widget-ads.php:1141
 msgid "Ads image path:"
-msgstr ""
+msgstr "URL de l'image publicitaire"
 
 #: ../framework/widgets/widget-ads.php:704
 #: ../framework/widgets/widget-ads.php:812
 #: ../framework/widgets/widget-ads.php:921
 #: ../framework/widgets/widget-ads.php:1145
 msgid "Ads Link:"
-msgstr ""
+msgstr "Liens pbulicitaires :"
 
 #: ../framework/widgets/widget-ads.php:708
 #: ../framework/widgets/widget-ads.php:816
 #: ../framework/widgets/widget-ads.php:925
 #: ../framework/widgets/widget-ads.php:1149
 msgid " Ads Adsense code:"
-msgstr ""
+msgstr "Pub code Adsenses :"
 
 #: ../framework/widgets/widget-ads.php:725
 msgid "Ads 300*600"
-msgstr ""
+msgstr "Pub 300*600"
 
 #: ../framework/widgets/widget-ads.php:834
 msgid "Ads 250*250"
-msgstr ""
+msgstr "Pub 250*250"
 
 #: ../framework/widgets/widget-ads.php:946
 msgid "Ads 300*100"
-msgstr ""
+msgstr "Pub 300*150"
 
 #: ../framework/widgets/widget-ads.php:1058
 msgid "Ads 300*250"
-msgstr ""
+msgstr "Pub 300*250"
 
 #: ../framework/widgets/widget-author-custom.php:11
 msgid "Custom Author Content"
-msgstr ""
+msgstr "Personnalisation de l\\'auteur"
 
 #: ../framework/widgets/widget-author-custom.php:57
 #: ../framework/widgets/widget-author.php:44
 #: ../framework/widgets/widget-author.php:121
 msgid "This Widget appears in single post only."
-msgstr ""
+msgstr "Ce widget apparaît uniquement dans Articles."
 
 #: ../framework/widgets/widget-author-custom.php:70
 #: ../framework/widgets/widget-text-html.php:79
 msgid "Center content:"
-msgstr ""
+msgstr "Centrer le contenu :"
 
 #: ../framework/widgets/widget-author.php:10
 msgid "Post Author"
-msgstr ""
+msgstr "Auteur de l\\'article"
 
 #: ../framework/widgets/widget-author.php:47
 msgid "Author's avatar:"
-msgstr ""
+msgstr "Avatar de l\\'auteur"
 
 #: ../framework/widgets/widget-author.php:52
 msgid "Social icons:"
-msgstr ""
+msgstr "Icones Sociales :"
 
 #: ../framework/widgets/widget-author.php:71
 msgid "Posts By Post's Author"
-msgstr ""
+msgstr "Articles par l\\'auteur"
 
 #: ../framework/widgets/widget-author.php:129
 msgid "Display (All) link:"
-msgstr ""
+msgstr "Afficher tous les liens"
 
 #: ../framework/widgets/widget-authors-posts.php:11
 #: ../framework/widgets/widget-authors-posts.php:44
 msgid "Authors Posts"
-msgstr ""
+msgstr "Articles de l\\'auteur"
 
 #: ../framework/widgets/widget-category.php:11
 #: ../framework/widgets/widget-category.php:44
 msgid "Category Posts"
-msgstr ""
+msgstr "Catégorie Articles"
 
 #: ../framework/widgets/widget-category.php:73
 msgid "Display Thumbnails :"
-msgstr ""
+msgstr "Afficher miniatures"
 
 #: ../framework/widgets/widget-comments-avatar.php:11
 msgid "Recent Comments with avatar"
-msgstr ""
+msgstr "Commentaires récents avec avatar"
 
 #: ../framework/widgets/widget-comments-avatar.php:42
 msgid "Recent Comments"
-msgstr ""
+msgstr "Commentaires récents"
 
 #: ../framework/widgets/widget-comments-avatar.php:50
 msgid "Avatar Size:"
-msgstr ""
+msgstr "Taille de l\\'avatar :"
 
 #: ../framework/widgets/widget-comments-avatar.php:54
 msgid "Number of comments to show:"
-msgstr ""
+msgstr "Nombre de commentaires à afficher :"
 
 #: ../framework/widgets/widget-custom-author.php:11
 msgid "Custom Author Bio"
-msgstr ""
+msgstr "Bio personnalisé de l'auteur"
 
 #: ../framework/widgets/widget-custom-author.php:55
 msgid "About Author"
-msgstr ""
+msgstr "À propos de l'auteur :"
 
 #: ../framework/widgets/widget-custom-author.php:63
 msgid "Avatar Image URL:"
-msgstr ""
+msgstr "URL de votre Avatar :"
 
 #: ../framework/widgets/widget-custom-author.php:67
 msgid "About:"
-msgstr ""
+msgstr "À propos :"
 
 #: ../framework/widgets/widget-facebook.php:42
 msgid "Find us on Facebook"
-msgstr ""
+msgstr "Nous retrouver sur Facebook"
 
 #: ../framework/widgets/widget-facebook.php:50
 msgid "Page URL :"
-msgstr ""
+msgstr "Page URL :"
 
 #: ../framework/widgets/widget-feedburner.php:11
 msgid "Feedburner"
-msgstr ""
+msgstr "Feedburner"
 
 #: ../framework/widgets/widget-feedburner.php:51
 msgid "FeedBurner Widget"
-msgstr ""
+msgstr "FeedBurner Widget"
 
 #: ../framework/widgets/widget-feedburner.php:51
 msgid "Subscribe to our email newsletter."
-msgstr ""
+msgstr "Souscrire à notre lettre d'information de courrier électronique."
 
 #: ../framework/widgets/widget-feedburner.php:59
 msgid "Text above Email Input Field:"
-msgstr ""
+msgstr "Texte au-dessus de Champ de saisie de Courrier électronique :"
 
 #: ../framework/widgets/widget-feedburner.php:59
 msgid "( Supports : Html & Shortcodes )"
-msgstr ""
+msgstr "( Supports : Html & Shortcodes )"
 
 #: ../framework/widgets/widget-feedburner.php:63
 msgid "Feedburner ID:"
-msgstr ""
+msgstr "Feedburner ID:"
 
 #: ../framework/widgets/widget-flickr.php:53
 msgid "Flickr ID:"
-msgstr ""
+msgstr "Flickr ID:"
 
 #: ../framework/widgets/widget-flickr.php:55
 msgid "Find Your ID at"
-msgstr ""
+msgstr "Retrouver votre ID sur"
 
 #: ../framework/widgets/widget-flickr.php:58
 msgid "Number of photos to show:"
-msgstr ""
+msgstr "Nombre de photos à afficher :"
 
 #: ../framework/widgets/widget-flickr.php:62
 msgid "Photos Order:"
-msgstr ""
+msgstr "Ordre des photos :"
 
 #: ../framework/widgets/widget-flickr.php:64
 #: ../framework/widgets/widget-news-pic.php:72
 #: ../framework/widgets/widget-posts.php:72
 msgid "Most recent"
-msgstr ""
+msgstr "Les plus récent"
 
 #: ../framework/widgets/widget-google.php:12
 msgid "Google+ page"
-msgstr ""
+msgstr "Page Google+"
 
 #: ../framework/widgets/widget-google.php:53
 msgid "Follow us on Google+"
-msgstr ""
+msgstr "Nous suivre sur Google+"
 
 #: ../framework/widgets/widget-google.php:61
 msgid "Page URL:"
-msgstr ""
+msgstr "URL de la page"
 
 #: ../framework/widgets/widget-login.php:11
 #: ../framework/widgets/widget-login.php:35
 msgid "Login"
-msgstr ""
+msgstr "Connexion"
 
 #: ../framework/widgets/widget-news-pic.php:11
 #: ../framework/widgets/widget-news-pic.php:42
 msgid "News in Pictures"
-msgstr ""
+msgstr "Nouveautés en images"
 
 #: ../framework/widgets/widget-news-pic.php:70
 msgid "Posts order:"
-msgstr ""
+msgstr "Ordre article :"
 
 #: ../framework/widgets/widget-posts.php:11
 msgid "Posts list"
-msgstr ""
+msgstr "Liste des articles"
 
 #: ../framework/widgets/widget-posts.php:70
 msgid "Posts order"
-msgstr ""
+msgstr "Ordre des articles"
 
 #: ../framework/widgets/widget-posts.php:74
 msgid "Popular / Comments"
-msgstr ""
+msgstr "Populaires / Commentaires"
 
 #: ../framework/widgets/widget-posts.php:76
 msgid "Popular / Views"
-msgstr ""
+msgstr "Populaires/ Vues"
 
 #: ../framework/widgets/widget-posts.php:78
 msgid "Best Reviews"
-msgstr ""
+msgstr "Meilleurs avis"
 
 #: ../framework/widgets/widget-posts.php:82
 msgid "Display Thumbnails:"
-msgstr ""
+msgstr "Afficher miniatures"
 
 #: ../framework/widgets/widget-slider.php:146
 msgid "Custom Slider:"
-msgstr ""
+msgstr "Slider personnalisé :"
 
 #: ../framework/widgets/widget-slider.php:155
 msgid "Add Custom sliders first ."
-msgstr ""
+msgstr "Ajouter un premier Slider personnalisé"
 
 #: ../framework/widgets/widget-social.php:55
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: ../framework/widgets/widget-social.php:69
 msgid "Open links in a new tab:"
-msgstr ""
+msgstr "Ouvrir le lien dans un nouvel onglet :"
 
 #: ../framework/widgets/widget-social.php:73
 msgid "Gray icons without background"
-msgstr ""
+msgstr "Icones grises sans background"
 
 #: ../framework/widgets/widget-soundcloud.php:52
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../framework/widgets/widget-tabbed.php:132
 #: ../framework/widgets/widget-text-html.php:76
 msgid "Order of tabs:"
-msgstr ""
+msgstr "Ordre des étiquettes:"
 
 #: ../framework/widgets/widget-tabbed.php:133
 msgid "click Save button to be able to change the order of tabs ."
 msgstr ""
+"Cliquez sur le bouton de Sauvegarder pour pouvoir changer l'ordre des "
+"étiquettes."
 
 #: ../framework/widgets/widget-tabbed.php:164
 msgid "Number of items to show :"
-msgstr ""
+msgstr "Nombre d'items à afficher"
 
 #: ../framework/widgets/widget-tabbed.php:168
 msgid "Popular order :"
-msgstr ""
+msgstr "Ordre par popularité :"
 
 #: ../framework/widgets/widget-tabbed.php:170
 msgid "Most Commented"
-msgstr ""
+msgstr "Les plus commentés"
 
 #: ../framework/widgets/widget-tabbed.php:171
 msgid "Most Viewed"
-msgstr ""
+msgstr "Les plus vus"
 
 #: ../framework/widgets/widget-text-html.php:76
 msgid "Check this box to hide widget title and background ."
-msgstr ""
+msgstr "Sélectionner cet option pour cacher le widget titre et background."
 
 #: ../framework/widgets/widget-text-html.php:83
 msgid "Text , Shortcodes or HTML code:"
-msgstr ""
+msgstr "Texte , Shortcodes ou code HTML :"
 
 #: ../framework/widgets/widget-timeline.php:11
 #: ../framework/widgets/widget-timeline.php:43
 msgid "Timeline"
-msgstr ""
+msgstr "Timeline"
 
 #: ../framework/widgets/widget-timeline.php:63
 msgid "Category :"
-msgstr ""
+msgstr "Catégorie :"
 
 #: ../framework/widgets/widget-twitter.php:158
 msgid "@Follow Me"
-msgstr ""
+msgstr "@anacondav13"
 
 #: ../framework/widgets/widget-twitter.php:168
 msgid "Twitter Username:"
-msgstr ""
+msgstr "Pseudo Twitter"
 
 #: ../framework/widgets/widget-twitter.php:172
 msgid "Consumer key:"
-msgstr ""
+msgstr "Clé publique:"
 
 #: ../framework/widgets/widget-twitter.php:175
 msgid "Consumer secret:"
-msgstr ""
+msgstr "Clé secrète:"
 
 #: ../framework/widgets/widget-twitter.php:179
 msgid "Number of Tweets to show:"
@@ -4976,76 +5012,76 @@ msgstr "URL de la Vidéo "
 #: ../framework/widgets/widget-weather.php:16
 #: ../framework/widgets/widget-weather.php:287
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: ../framework/widgets/widget-weather.php:16
 #: ../framework/widgets/widget-weather.php:286
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: ../framework/widgets/widget-weather.php:117
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../framework/widgets/widget-weather.php:118
 msgid "NNE"
-msgstr ""
+msgstr "NNE"
 
 #: ../framework/widgets/widget-weather.php:119
 msgid "NE"
-msgstr ""
+msgstr "NNE"
 
 #: ../framework/widgets/widget-weather.php:120
 msgid "ENE"
-msgstr ""
+msgstr "ENE"
 
 #: ../framework/widgets/widget-weather.php:121
 msgid "E"
-msgstr ""
+msgstr "E"
 
 #: ../framework/widgets/widget-weather.php:122
 msgid "ESE"
-msgstr ""
+msgstr "ESE"
 
 #: ../framework/widgets/widget-weather.php:123
 msgid "SE"
-msgstr ""
+msgstr "ESE"
 
 #: ../framework/widgets/widget-weather.php:124
 msgid "SSE"
-msgstr ""
+msgstr "SSE"
 
 #: ../framework/widgets/widget-weather.php:125
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: ../framework/widgets/widget-weather.php:126
 msgid "SSW"
-msgstr ""
+msgstr "SSW"
 
 #: ../framework/widgets/widget-weather.php:127
 msgid "SW"
-msgstr ""
+msgstr "SW"
 
 #: ../framework/widgets/widget-weather.php:128
 msgid "WSW"
-msgstr ""
+msgstr "WSW"
 
 #: ../framework/widgets/widget-weather.php:129
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: ../framework/widgets/widget-weather.php:130
 msgid "WNW"
-msgstr ""
+msgstr "WNW"
 
 #: ../framework/widgets/widget-weather.php:131
 msgid "NW"
-msgstr ""
+msgstr "NW"
 
 #: ../framework/widgets/widget-weather.php:132
 msgid "NNW"
-msgstr ""
+msgstr "NNW"
 
 #: ../framework/widgets/widget-weather.php:163
 msgid "km/h"
@@ -5065,11 +5101,11 @@ msgstr "vent:"
 
 #: ../framework/widgets/widget-weather.php:172
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #: ../framework/widgets/widget-weather.php:172
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #: ../framework/widgets/widget-weather.php:188
 msgid "Sun"
@@ -5134,7 +5170,7 @@ msgstr "Unités:"
 
 #: ../framework/widgets/widget-weather.php:292
 msgid "Forecast:"
-msgstr ""
+msgstr "Prévision:"
 
 #: ../framework/widgets/widget-weather.php:294
 msgid "5 Days"
