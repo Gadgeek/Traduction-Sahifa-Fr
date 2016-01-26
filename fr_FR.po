@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sahifa\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 10:38+0200\n"
-"PO-Revision-Date: 2016-01-25 02:33+0100\n"
+"PO-Revision-Date: 2016-01-26 02:16+0100\n"
 "Language-Team: TieLabs <info@tielabs.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -884,69 +884,69 @@ msgstr "Solide"
 
 #: ../framework/admin/framework-admin.php:352
 msgid "Dashed"
-msgstr ""
+msgstr "Pointillés"
 
 #: ../framework/admin/framework-admin.php:353
 #: ../framework/admin/framework-options.php:285
 #: ../framework/admin/framework-options.php:302
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: ../framework/admin/framework-admin.php:354
 msgid "Double"
-msgstr ""
+msgstr "Double"
 
 #: ../framework/admin/framework-admin.php:355
 msgid "Dotted"
-msgstr ""
+msgstr "Pointillé"
 
 #: ../framework/admin/framework-admin.php:356
 msgid "Margin Top:"
-msgstr ""
+msgstr "Marge supérieure:"
 
 #: ../framework/admin/framework-admin.php:357
 msgid "Margin Bottom:"
-msgstr ""
+msgstr "Marge inférieure:"
 
 #: ../framework/admin/framework-admin.php:358
 msgid "Lists"
-msgstr ""
+msgstr "Les listes"
 
 #: ../framework/admin/framework-admin.php:359
 msgid "Star"
-msgstr ""
+msgstr "Etoiles"
 
 #: ../framework/admin/framework-admin.php:360
 msgid "Check"
-msgstr ""
+msgstr "Vérifier"
 
 #: ../framework/admin/framework-admin.php:361
 msgid "Thumb Up"
-msgstr ""
+msgstr "Monter"
 
 #: ../framework/admin/framework-admin.php:362
 msgid "Thumb Down"
-msgstr ""
+msgstr "Descendre"
 
 #: ../framework/admin/framework-admin.php:363
 msgid "Plus"
-msgstr ""
+msgstr "+"
 
 #: ../framework/admin/framework-admin.php:364
 msgid "Minus"
-msgstr ""
+msgstr "-"
 
 #: ../framework/admin/framework-admin.php:365
 msgid "Heart"
-msgstr ""
+msgstr "Coeur"
 
 #: ../framework/admin/framework-admin.php:366
 msgid "Light Bulb"
-msgstr ""
+msgstr "Bulle d\\'info"
 
 #: ../framework/admin/framework-admin.php:367
 msgid "Cons"
-msgstr ""
+msgstr "Cons"
 
 #: ../framework/admin/framework-admin.php:368
 msgid "Ads"
@@ -2824,383 +2824,389 @@ msgstr "Exclure des pages dans les résultats"
 
 #: ../framework/admin/framework-panel.php:2155
 msgid "Choose Search results page layout"
-msgstr ""
+msgstr "Choisir un layout pour la page de recherche"
 
 #: ../framework/admin/framework-panel.php:2186
 msgid "Theme Color and Settings"
-msgstr ""
+msgstr "Couleurs du thèmes et configuration"
 
 #: ../framework/admin/framework-panel.php:2189
 msgid "Choose Theme Color"
-msgstr ""
+msgstr "Choisir la couleur du thème"
 
 #: ../framework/admin/framework-panel.php:2232
 msgid "Custom Theme Color"
-msgstr ""
+msgstr "Couleurs du thème personnalisées"
 
 #: ../framework/admin/framework-panel.php:2237
 msgid "Dark Skin"
-msgstr ""
+msgstr "Skin sombre"
 
 #: ../framework/admin/framework-panel.php:2242
 msgid "Modern Colored Scrollbar"
-msgstr ""
+msgstr "Scrollbarr couleurs modernes"
 
 #: ../framework/admin/framework-panel.php:2245
 msgid "For Chrome and Safari only."
-msgstr ""
+msgstr "Pour Chrome et Safari seulement."
 
 #: ../framework/admin/framework-panel.php:2248
 msgid "Apply Categories Colors on News blocks"
-msgstr ""
+msgstr "Appliquer les couleurs aux catégories sur les Nouveaux Blocs"
 
 #: ../framework/admin/framework-panel.php:2253
 msgid "Lazy Load For Images"
-msgstr ""
+msgstr "Chargement lent pour les images"
 
 #: ../framework/admin/framework-panel.php:2258
 msgid "Smoth Scroll"
-msgstr ""
+msgstr "Smoth Scroll"
 
 #: ../framework/admin/framework-panel.php:2265
 #: ../framework/admin/framework-panel.php:2268
 msgid "Background Type"
-msgstr ""
+msgstr "Type de Background"
 
 #: ../framework/admin/framework-panel.php:2271
 msgid "Pattern"
-msgstr ""
+msgstr "Paterne"
 
 #: ../framework/admin/framework-panel.php:2272
 #: ../framework/admin/framework-panel.php:2299
 #: ../framework/admin/framework-panel.php:2302
 msgid "Custom Background"
-msgstr ""
+msgstr "Arrière plan personnalisé"
 
 #: ../framework/admin/framework-panel.php:2277
 msgid "Choose Pattern"
-msgstr ""
+msgstr "Choisir une paterne "
 
 #: ../framework/admin/framework-panel.php:2281
 msgid "Background Color"
-msgstr ""
+msgstr "Couleur d\\'arrière plan"
 
 #: ../framework/admin/framework-panel.php:2314
 msgid "Body Styling"
-msgstr ""
+msgstr "Style du corps (Body)"
 
 #: ../framework/admin/framework-panel.php:2318
 msgid "Highlighted Text Color"
-msgstr ""
+msgstr "Couleur du texte en surbrillance"
 
 #: ../framework/admin/framework-panel.php:2323
 #: ../framework/admin/framework-panel.php:2362
 #: ../framework/admin/framework-panel.php:2408
 #: ../framework/admin/framework-panel.php:2508
 msgid "Links Color"
-msgstr ""
+msgstr "Couleur des liens"
 
 #: ../framework/admin/framework-panel.php:2327
 msgid "Links Decoration"
-msgstr ""
+msgstr "Décoration sur les liens"
 
 #: ../framework/admin/framework-panel.php:2331
 #: ../framework/admin/framework-panel.php:2346
 #: ../framework/admin/framework-panel.php:2473
 #: ../framework/admin/framework-panel.php:2488
 msgid "none"
-msgstr ""
+msgstr "Aucune"
 
 #: ../framework/admin/framework-panel.php:2332
 #: ../framework/admin/framework-panel.php:2347
 #: ../framework/admin/framework-panel.php:2474
 #: ../framework/admin/framework-panel.php:2489
 msgid "underline"
-msgstr ""
+msgstr "sous la ligne"
 
 #: ../framework/admin/framework-panel.php:2333
 #: ../framework/admin/framework-panel.php:2348
 #: ../framework/admin/framework-panel.php:2475
 #: ../framework/admin/framework-panel.php:2490
 msgid "overline"
-msgstr ""
+msgstr "sur la ligne"
 
 #: ../framework/admin/framework-panel.php:2334
 #: ../framework/admin/framework-panel.php:2349
 #: ../framework/admin/framework-panel.php:2476
 #: ../framework/admin/framework-panel.php:2491
 msgid "line-through"
-msgstr ""
+msgstr "trait d\\'union"
 
 #: ../framework/admin/framework-panel.php:2337
 #: ../framework/admin/framework-panel.php:2367
 #: ../framework/admin/framework-panel.php:2413
 #: ../framework/admin/framework-panel.php:2513
 msgid "Links Color on mouse over"
-msgstr ""
+msgstr "Couleur du lien au survole de la souris"
 
 #: ../framework/admin/framework-panel.php:2342
 msgid "Links Decoration on mouse over"
-msgstr ""
+msgstr "Décoration du lien au survole de la souris"
 
 #: ../framework/admin/framework-panel.php:2354
 msgid "Top Navigation Styling"
-msgstr ""
+msgstr "Style de la zone Top Navigation"
 
 #: ../framework/admin/framework-panel.php:2372
 msgid "Today's Date text color"
-msgstr ""
+msgstr "Couleur de la date"
 
 #: ../framework/admin/framework-panel.php:2379
 msgid "Header Background"
-msgstr ""
+msgstr "Arrière plan du header"
 
 #: ../framework/admin/framework-panel.php:2390
 msgid "Main Navigation Styling"
-msgstr ""
+msgstr "Style de la zone de navigation principale"
 
 #: ../framework/admin/framework-panel.php:2393
 msgid "Main Navigation Background"
-msgstr ""
+msgstr "Arrière plan de la zone de navigation principale"
 
 #: ../framework/admin/framework-panel.php:2398
 msgid "Main Navigation inner bottom border color"
-msgstr ""
+msgstr "Couleur des bordures de la zone de navigation principale"
 
 #: ../framework/admin/framework-panel.php:2403
 msgid "Sub Menu Background"
-msgstr ""
+msgstr "Arrière plan des sous-menu"
 
 #: ../framework/admin/framework-panel.php:2418
 msgid "Current Item Link Color"
-msgstr ""
+msgstr "Couleur du lien du la page courante"
 
 #: ../framework/admin/framework-panel.php:2423
 msgid "Separator Line1 color"
-msgstr ""
+msgstr "Couleur de la ligne de séparation 1"
 
 #: ../framework/admin/framework-panel.php:2428
 msgid "Separator Line2 color"
-msgstr ""
+msgstr "Couleur de la ligne de séparation 2"
 
 #: ../framework/admin/framework-panel.php:2436
 msgid "Breaking News Styling"
-msgstr ""
+msgstr "Style des Breaking News"
 
 #: ../framework/admin/framework-panel.php:2439
 msgid "Breaking News Text Background"
-msgstr ""
+msgstr "Arrière plan Breaking News"
 
 #: ../framework/admin/framework-panel.php:2446
 msgid "Content Styling"
-msgstr ""
+msgstr "Style du contenu"
 
 #: ../framework/admin/framework-panel.php:2449
 msgid "Main Content Background"
-msgstr ""
+msgstr "Arrière plan du contenu principal"
 
 #: ../framework/admin/framework-panel.php:2454
 msgid "Blocks / Widgets Background"
-msgstr ""
+msgstr "Arrière plan des Blocs / Widgets"
 
 #: ../framework/admin/framework-panel.php:2461
 msgid "Post Styling"
-msgstr ""
+msgstr "Style des articles"
 
 #: ../framework/admin/framework-panel.php:2464
 msgid "Post Links Color"
-msgstr ""
+msgstr "Style des liens des articles"
 
 #: ../framework/admin/framework-panel.php:2469
 msgid "Post Links Decoration"
-msgstr ""
+msgstr "Style de décoration des liens des articles"
 
 #: ../framework/admin/framework-panel.php:2479
 msgid "Post Links Color on mouse over"
-msgstr ""
+msgstr "Couleur des liens au survole de la souris"
 
 #: ../framework/admin/framework-panel.php:2484
 msgid "Post Links Decoration on mouse over"
-msgstr ""
+msgstr "Décoration des liens au survole de la souris"
 
 #: ../framework/admin/framework-panel.php:2495
 msgid "Footer Background"
-msgstr ""
+msgstr "Arrière plan du Pied de page / Footer"
 
 #: ../framework/admin/framework-panel.php:2503
 msgid "Footer Widget Title color"
-msgstr ""
+msgstr "Couleur du titre des Widgets du Pied de page / Footer"
 
 #: ../framework/admin/framework-panel.php:2520
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS Personnalisé"
 
 #: ../framework/admin/framework-panel.php:2522
 msgid "Global CSS :"
-msgstr ""
+msgstr "CSS Global :"
 
 #: ../framework/admin/framework-panel.php:2526
 msgid "Tablets:"
-msgstr ""
+msgstr "Tablettes :"
 
 #: ../framework/admin/framework-panel.php:2526
 msgid "768 - 985px"
-msgstr ""
+msgstr "768 - 985px"
 
 #: ../framework/admin/framework-panel.php:2530
 msgid "Wide Phones:"
-msgstr ""
+msgstr "Smartphone écran large :"
 
 #: ../framework/admin/framework-panel.php:2530
 msgid "480 - 767px"
-msgstr ""
+msgstr "480 - 767px"
 
 #: ../framework/admin/framework-panel.php:2534
 msgid "Phones:"
-msgstr ""
+msgstr "Smartphone :"
 
 #: ../framework/admin/framework-panel.php:2534
 msgid "320 - 479px"
-msgstr ""
+msgstr "320 - 479px"
 
 #: ../framework/admin/framework-panel.php:2547
 msgid "Character sets"
-msgstr ""
+msgstr "Jeux de caractères"
 
 #: ../framework/admin/framework-panel.php:2548
 msgid "Tip:"
-msgstr ""
+msgstr "Astuce :"
 
 #: ../framework/admin/framework-panel.php:2548
 msgid ""
 "If you choose only the languages that you need, you'll help prevent slowness "
 "on your webpage."
 msgstr ""
+"Si vous choisissez seulement les langues dont vous avez besoin, vous "
+"améliorerez les performances de chargements de vos page Web."
 
 #: ../framework/admin/framework-panel.php:2551
 msgid "Latin Extended"
-msgstr ""
+msgstr "Latin étendu"
 
 #: ../framework/admin/framework-panel.php:2556
 msgid "Cyrillic"
-msgstr ""
+msgstr "Cyrillic"
 
 #: ../framework/admin/framework-panel.php:2561
 msgid "Cyrillic Extended"
-msgstr ""
+msgstr "Cyrillic étendu"
 
 #: ../framework/admin/framework-panel.php:2566
 msgid "Greek"
-msgstr ""
+msgstr "Grec "
 
 #: ../framework/admin/framework-panel.php:2571
 msgid "Greek Extended"
-msgstr ""
+msgstr "Grec étendu"
 
 #: ../framework/admin/framework-panel.php:2576
 msgid "Khmer"
-msgstr ""
+msgstr "Khmer"
 
 #: ../framework/admin/framework-panel.php:2581
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamien"
 
 #: ../framework/admin/framework-panel.php:2588
 msgid "Live typography preview"
-msgstr ""
+msgstr "Prévisualisation de typographie"
 
 #: ../framework/admin/framework-panel.php:2596
 msgid "Grumpy wizards make toxic brew for the evil Queen and Jack."
 msgstr ""
+"Les magiciens grognons font l'infusion toxique pour la méchante Reine et "
+"Jack."
 
 #: ../framework/admin/framework-panel.php:2600
 msgid "Main Typography"
-msgstr ""
+msgstr "Typographie principale "
 
 #: ../framework/admin/framework-panel.php:2603
 msgid "General Typography"
-msgstr ""
+msgstr "Typographie  générale"
 
 #: ../framework/admin/framework-panel.php:2608
 msgid "Site Title In Header"
-msgstr ""
+msgstr "Titre du site dans l\\'en-tête / header"
 
 #: ../framework/admin/framework-panel.php:2613
 msgid "Tagline In Header"
-msgstr ""
+msgstr "Mots-clés dans l\\'en-tête / header"
 
 #: ../framework/admin/framework-panel.php:2618
 msgid "Top Menu"
-msgstr ""
+msgstr "Menu Haut"
 
 #: ../framework/admin/framework-panel.php:2623
 msgid "Main Navigation"
-msgstr ""
+msgstr "Navigation Principale"
 
 #: ../framework/admin/framework-panel.php:2628
 msgid "Breaking News Label"
-msgstr ""
+msgstr "Label de Breaking News"
 
 #: ../framework/admin/framework-panel.php:2633
 msgid "Grid Slider Post Title"
-msgstr ""
+msgstr "Utiliser le titre du slide comme lien d\\'accroche"
 
 #: ../framework/admin/framework-panel.php:2638
 msgid "Slider Post Title"
-msgstr ""
+msgstr "Titre l'article du slide"
 
 #: ../framework/admin/framework-panel.php:2643
 msgid "Page Title"
-msgstr ""
+msgstr "Titre de la page"
 
 #: ../framework/admin/framework-panel.php:2648
 msgid "Single Post Title"
-msgstr ""
+msgstr "Titre de l\\'article"
 
 #: ../framework/admin/framework-panel.php:2653
 msgid "Post Title in Homepage Blocks and Post Titles in Blog Layout"
 msgstr ""
+"Titre de l\\'article dans les blocs de la page d'accueil et dans la mise en "
+"page blog"
 
 #: ../framework/admin/framework-panel.php:2658
 msgid "Small Post Title in Homepage Blocks"
-msgstr ""
+msgstr "Petits titres d'articles dans les blocs de la page d'accueil"
 
 #: ../framework/admin/framework-panel.php:2668
 msgid "Post Entry"
-msgstr ""
+msgstr "Entrée d’article"
 
 #: ../framework/admin/framework-panel.php:2673
 msgid "Blockquotes"
-msgstr ""
+msgstr "Blocs de citation"
 
 #: ../framework/admin/framework-panel.php:2678
 msgid "Blocks Titles"
-msgstr ""
+msgstr "Titres des blocs"
 
 #: ../framework/admin/framework-panel.php:2683
 msgid "Widgets Titles"
-msgstr ""
+msgstr "Titres des widgets"
 
 #: ../framework/admin/framework-panel.php:2688
 msgid "Footer Widgets Titles"
-msgstr ""
+msgstr "Titres des widgets du pied de page"
 
 #: ../framework/admin/framework-panel.php:2721
 #: ../framework/admin/framework-panel.php:2724
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Paramètres avancés"
 
 #: ../framework/admin/framework-panel.php:2727
 msgid "Disable Arqam Lite"
-msgstr ""
+msgstr "Désactiver Arqam Lite"
 
 #: ../framework/admin/framework-panel.php:2732
 msgid "Notify on theme updates"
-msgstr ""
+msgstr "Notifier les mises à jour du thème"
 
 #: ../framework/admin/framework-panel.php:2737
 msgid "Disable the Responsiveness"
-msgstr ""
+msgstr "Désactiver l\\'adaptabilité mobile"
 
 #: ../framework/admin/framework-panel.php:2741
 msgid ""
@@ -3208,42 +3214,48 @@ msgid ""
 "responsiveness action on the desktop .. edit style.css file and remove all "
 "Media Queries from the end of the file ."
 msgstr ""
+"Cette option ne fonctionne que pour les tablettes et téléphones... pour "
+"désactiver l\\'adaptabilité sur ordinateur, éditer le fichier style.css et "
+"supprimer toutes les Media Queries à la fin du fichier."
 
 #: ../framework/admin/framework-panel.php:2746
 #: ../framework/admin/framework-panel.php:2749
 msgid "WordPress Login page Logo"
-msgstr ""
+msgstr "Logo de la page de connexion à WordPress"
 
 #: ../framework/admin/framework-panel.php:2754
 msgid "WordPress Login page Logo URL"
-msgstr ""
+msgstr "URL du logo de la page de connexion à WordPress"
 
 #: ../framework/admin/framework-panel.php:2771
 msgid "Export"
-msgstr ""
+msgstr "Exporter"
 
 #: ../framework/admin/framework-panel.php:2777
 msgid "Import"
-msgstr ""
+msgstr "Importation"
 
 #: ../framework/admin/framework-panel.php:2794
 msgid "All settings will be rest .. Are you sure ?"
 msgstr ""
+"Tous les paramètres de configuration seront réinitialisés. Êtes-vous sûr ?"
 
 #: ../framework/admin/framework-panel.php:2794
 msgid "Reset All Settings"
-msgstr ""
+msgstr "Tout réinitialiser"
 
 #: ../framework/admin/inc/importer/parsers.php:42
 #: ../framework/admin/inc/importer/parsers.php:63
 msgid "There was an error when reading this WXR file"
-msgstr ""
+msgstr "Une erreur s\\’est produite pendant la lecture du fichier WXR"
 
 #: ../framework/admin/inc/importer/parsers.php:43
 msgid ""
 "Details are shown above. The importer will now try again with a different "
 "parser..."
 msgstr ""
+"Les détails sont présentés ci-dessus. L\\’importateur va maintenant essayer "
+"à nouveau avec un analyseur différent …"
 
 #: ../framework/admin/inc/importer/parsers.php:67
 #: ../framework/admin/inc/importer/parsers.php:72
@@ -3252,6 +3264,8 @@ msgstr ""
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
 msgstr ""
+"Cela ne semble pas être un fichier WXR, numéro de version du WXR manquant ou "
+"non valable"
 
 #: ../framework/admin/inc/importer/tie-importer.php:204
 msgid ""
@@ -3260,29 +3274,43 @@ msgid ""
 "everything instead of creating content from scratch. When you import the "
 "data following things will happen:"
 msgstr ""
+"L\\’importation des données de démonstration (articles, pages, images, "
+"paramètres du thème,…) est la manière la plus simple de configurer ce thème. "
+"Cela permet de rapidement tout modifier plutôt que de créer du contenu à "
+"partir de zéro. Lorsque vous importez les données les choses suivantes se "
+"produiront:"
 
 #: ../framework/admin/inc/importer/tie-importer.php:207
 msgid ""
 "No existing posts, pages, categories, images, custom post types or any other "
 "data will be deleted or modified."
 msgstr ""
+"Pas de messages, des pages, des catégories, des images, des types de poste "
+"personnalisées existantes ou d\\'autres données seront supprimées ou "
+"modifiées."
 
 #: ../framework/admin/inc/importer/tie-importer.php:208
 msgid ""
 "About 10 posts, a few pages, 10+ images, some widgets and two menus will get "
 "imported."
 msgstr ""
+"environ 10 articles, quelques pages, 10+ images, quelques widgets et deux "
+"menus seront importés ;"
 
 #: ../framework/admin/inc/importer/tie-importer.php:209
 msgid ""
 "Images will be downloaded from our server, these images are copyrighted and "
 "are for demo use only."
 msgstr ""
+"les images seront téléchargées depuis notre serveur, ces images sont sous "
+"copyright et ne peuvent servir que pour la démonstration ;"
 
 #: ../framework/admin/inc/importer/tie-importer.php:210
 msgid ""
 "Please click import only once and wait, it can take a couple of minutes."
 msgstr ""
+"merci de ne cliquer qu\\'une seule fois sur l\\'import et attendre, cela "
+"peut prendre quelques minutes."
 
 #: ../framework/admin/inc/importer/tie-importer.php:246
 msgid ""
@@ -3292,6 +3320,11 @@ msgid ""
 "file (should be located in your download .zip: Sample Content folder) "
 "manually"
 msgstr ""
+"Le fichier XML contenant le contenu fictif n\\'est pas disponible ou ne peut "
+"pas être lu. Essayez de changer les permissions avec un chmod 755.<br />Si "
+"cela ne fonctionne toujours pas, utiliser l'outil d'import de WordPress et "
+"importez le fichier XML manuellement (devrait être situé dans l'archive .zip "
+"téléchargée, dans le dossier Sample Content)"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:134
 #: ../framework/admin/inc/importer/wordpress-importer.php:143
@@ -3299,23 +3332,25 @@ msgstr ""
 #: ../framework/admin/inc/importer/wordpress-importer.php:198
 #: ../framework/admin/inc/importer/wordpress-importer.php:207
 msgid "Sorry, there has been an error."
-msgstr ""
+msgstr "Désolé, il y a eu une erreur."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:135
 msgid "The file does not exist, please try again."
-msgstr ""
+msgstr "Le fichier n’existe pas, veuillez essayer de nouveau."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:178
 msgid "All done."
-msgstr ""
+msgstr "C’est terminé !"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:178
 msgid "Have fun!"
-msgstr ""
+msgstr "Amusez-vous bien !"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:179
 msgid "Remember to update the passwords and roles of imported users."
 msgstr ""
+"N\\’oubliez pas de mettre à jour les mots de passe et les rôles des "
+"utilisateurs importés."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:199
 #, php-format
@@ -3323,6 +3358,8 @@ msgid ""
 "The export file could not be found at <code>%s</code>. It is likely that "
 "this was caused by a permissions problem."
 msgstr ""
+"Le fichier d\\’exportation n’a pu être trouvé à <code>%s</code>. Ceci est "
+"peut-être dû à un problème de permissions."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:215
 #, php-format
@@ -3330,6 +3367,8 @@ msgid ""
 "This WXR file (version %s) may not be supported by this version of the "
 "importer. Please consider updating."
 msgstr ""
+"Ce fichier WXR (version %s) n’est peut-être pas supporté par cette version "
+"de l’outil d’importation. Merci de procéder à une mise à jour."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:240
 #, php-format
@@ -3337,10 +3376,12 @@ msgid ""
 "Failed to import author %s. Their posts will be attributed to the current "
 "user."
 msgstr ""
+"Impossible d'importer auteur %s. Leurs postes seront attribués à "
+"l'utilisateur actuel."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:266
 msgid "Assign Authors"
-msgstr ""
+msgstr "Assigner Auteurs"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:267
 msgid ""
@@ -3349,6 +3390,10 @@ msgid ""
 "site. For example, you may want to import all the entries as <code>admin</"
 "code>s entries."
 msgstr ""
+"Pour faciliter l\\’édition et la sauvegarde du contenu importé, vous pouvez "
+"réaffecter l\\’auteur de l\\’élément importé à un autre utilisateur de ce "
+"site. Par exemple, vous pouvez importer toutes les entrées comme des entrées "
+"<code>admin</code>."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:269
 #, php-format
@@ -3357,38 +3402,46 @@ msgid ""
 "generated and the new user&#8217;s role will be set as %s. Manually changing "
 "the new user&#8217;s details will be necessary."
 msgstr ""
+"Si un nouvel utilisateur est créé par WordPress, un nouveau mot de passe "
+"sera généré aléatoirement et le rôle du nouvel utilisateur&#8217;s sera "
+"défini comme %s. Un changement manuel des détails du nouvel "
+"utilisateur&#8217;s sera nécessaire."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:279
 msgid "Import Attachments"
-msgstr ""
+msgstr "Importer les pièces jointes"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:282
 msgid "Download and import file attachments"
-msgstr ""
+msgstr "Télécharger et importer les pièces jointes"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:299
 msgid "Import author:"
-msgstr ""
+msgstr "Importer l\\’auteur :"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:310
 msgid "or create new user with login name:"
-msgstr ""
+msgstr "ou créer un nouvel utilisateur avec le login :"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:313
 msgid "as a new user:"
 msgstr ""
+"Si un nouvel utilisateur est créé par WordPress, un nouveau mot de passe "
+"sera généré aléatoirement et le rôle du nouvel utilisateur&#8217;s sera "
+"défini comme %s. Un changement manuel des détails du nouvel "
+"utilisateur&#8217;s sera nécessaire."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:321
 msgid "assign posts to an existing user:"
-msgstr ""
+msgstr "Attribuer les articles à un utilisateur existant :"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:323
 msgid "or assign posts to an existing user:"
-msgstr ""
+msgstr "ou assigner les articles à un utilisateur existant :"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:324
 msgid "- Select -"
-msgstr ""
+msgstr "- Sélectionner -"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:374
 #, php-format
@@ -3396,80 +3449,82 @@ msgid ""
 "Failed to create new user for %s. Their posts will be attributed to the "
 "current user."
 msgstr ""
+"Impossible de créer un nouvel utilisateur pour%s. Leurs postes seront "
+"attribués à l'utilisateur actuel."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:423
 #, php-format
 msgid "Failed to import category %s"
-msgstr ""
+msgstr "Impossible d\\’importer la catégorie %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:461
 #, php-format
 msgid "Failed to import post tag %s"
-msgstr ""
+msgstr "Impossible d\\’importer l\\’étiquette de l’article %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:505
 #: ../framework/admin/inc/importer/wordpress-importer.php:631
 #, php-format
 msgid "Failed to import %s %s"
-msgstr ""
+msgstr "Impossible d\\’importer %s %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:527
 #, php-format
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
-msgstr ""
+msgstr "Impossible d\\’importer &#8220;%s&#8221;: Type d\\’article invalide %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:548
 #, php-format
 msgid "%s &#8220;%s&#8221; already exists."
-msgstr ""
+msgstr "%s &#8220;%s&#8221; existe déjà."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:603
 #, php-format
 msgid "Failed to import %s &#8220;%s&#8221;"
-msgstr ""
+msgstr "Echec de l\\’importation  %s &#8220;%s&#8221;"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:749
 msgid "Menu item skipped due to missing menu slug"
-msgstr ""
+msgstr "Élément de menu ignoré car son identifiant de menu est manquant"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:756
 #, php-format
 msgid "Menu item skipped due to invalid menu slug: %s"
-msgstr ""
+msgstr "Élément de menu ignoré car son identifiant de menu est manquant : %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:832
 msgid "Fetching attachments is not enabled"
-msgstr ""
+msgstr "L\\’obtention de pièces jointes n’est pas activée"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:845
 msgid "Invalid file type"
-msgstr ""
+msgstr "Type de fichier invalide"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:889
 msgid "Remote server did not respond"
-msgstr ""
+msgstr "Le serveur distant n’a pas répondu"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:895
 #, php-format
 msgid "Remote server returned error response %1$d %2$s"
-msgstr ""
+msgstr "Le serveur distant a renvoyé une réponse erreur %1$d %2$s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:902
 msgid "Remote file is incorrect size"
-msgstr ""
+msgstr "Fichier distant de taille incorrecte"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:907
 msgid "Zero size file downloaded"
-msgstr ""
+msgstr "Fichier vide téléchargé"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:913
 #, php-format
 msgid "Remote file is too large, limit is %s"
-msgstr ""
+msgstr "Le fichier distant est trop lourd, la limite est de %s"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1012
 msgid "Import WordPress"
-msgstr ""
+msgstr "Importer WordPress"
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1019
 #, php-format
@@ -3477,6 +3532,9 @@ msgid ""
 "A new version of this importer is available. Please update to version %s to "
 "ensure compatibility with newer export files."
 msgstr ""
+"Une nouvelle version de cet importateur est disponible. S\\’il vous plaît "
+"mettre à jour vers la version%s pour assurer la compatibilité avec les "
+"fichiers d\\’exportation les plus récents."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1034
 msgid ""
@@ -3484,33 +3542,38 @@ msgid ""
 "the posts, pages, comments, custom fields, categories, and tags into this "
 "site."
 msgstr ""
+"Salut! Téléchargez votre WordPress eXtended RSS (WXR) fichier et nous allons "
+"importer les messages, pages, commentaires, champs personnalisés, les "
+"catégories et les étiquettes dans ce site."
 
 #: ../framework/admin/inc/importer/wordpress-importer.php:1035
 msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
 msgstr ""
+"Choisissez un fichier WXR (.xml) à télécharger, puis cliquez sur Envoyer le "
+"fichier et l\\’importer."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:24
 #: ../framework/admin/inc/notifier/update-notifier.php:83
 msgid "Theme Updates"
-msgstr ""
+msgstr "Mises à jour du thème"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:24
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:87
 #, php-format
 msgid "There is a new version of the %s theme available."
-msgstr ""
+msgstr "Il est une nouvelle version du thème %s est disponible."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:87
 #, php-format
 msgid "You have version %1$s installed. Update to version %2$s ."
-msgstr ""
+msgstr "Vous avez la version%1$s installés. Mise à jour vers la version %2$s."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:95
 msgid "Updating Automatically"
-msgstr ""
+msgstr "Mise à jour automatique"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:96
 msgid ""
@@ -3522,38 +3585,52 @@ msgid ""
 "\t\t\t\tand to automatically update (upon clicking) directly from within "
 "your WordPress admin area."
 msgstr ""
+"Envato a développé le <a href=« https://github.com/envato/envato-wordpress-"
+"toolkit » target=« _blank »>Toolkit Plugin Envato</a> pour WordPress. Vous "
+"pouvez l\\’utiliser pour recevoir une notification des mises à jour de "
+"thèmes achetés auprès ThemeForest et mettre à jour automatiquement (après "
+"avoir cliqué) directement à partir de votre zone d\\’administration de "
+"WordPress."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:101
 msgid ""
 "Download the <a href=\"https://github.com/envato/envato-wordpress-toolkit/"
 "zipball/master\">plugin zip file</a> to your computer."
 msgstr ""
+"Télécharger le <a href=« https://github.com/envato/envato-wordpress-toolkit/"
+"zipball/master »>fichier zip de l\\'extension</a> sur votre ordinateur."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:102
 msgid ""
 "In your WordPress admin area, go to <i>Plugins &gt; Add New</i> then click "
 "<i>Upload</i>."
 msgstr ""
+"Dans votre zone d'administration de WordPress, aller à <i>Plugins et Ajouter "
+"Nouveau,</i> puis cliquez sur <i>Télécharger.</i>"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:103
 msgid ""
 "Click <i>Choose File</i>, select the plugin zip file you downloaded and "
 "click <i>Install Now</i>."
 msgstr ""
+"Cliquez sur <i>Choisir un fichier,</i> sélectionnez le fichier zip du plugin "
+"que vous avez téléchargé et <i>cliquez</i> sur Installer maintenant."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:104
 msgid "After installation, click <i>Activate</i>."
-msgstr ""
+msgstr "Après l'installation, cliquez sur <i>Activer.</i>"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:105
 msgid ""
 "Click the new <i>Envato Toolkit</i> link in the menu and follow the "
 "instructions to configure the plugin."
 msgstr ""
+"Cliquez sur le nouveau lien <i>Envato Toolkit</i> dans le menu et suivez les "
+"instructions pour configurer le plugin."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:108
 msgid "Updating Manually"
-msgstr ""
+msgstr "Mettre à jour manuellement"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:110
 msgid ""
@@ -3561,22 +3638,29 @@ msgid ""
 "downloads?ref=tielabs\" target=\"_blank\">ThemeForest</a> in the "
 "<i>Downloads</i> area of your account."
 msgstr ""
+"Télécharger la version la plus récente de <a href=« http://themeforest.net/"
+"downloads?ref=tielabs » target=« _blank »>ThemeForest</a> dans la zone "
+"<i>Téléchargements</i> de votre compte."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:111
 #, php-format
 msgid "Unzip the package and locate <i>%s.zip</i> in the theme folder."
 msgstr ""
+"Décompressez et localiser le fichier <i>%s.zip</i> dans le dossier du thème."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:112
 msgid ""
 "Go to <i>Appearance &gt; Themes</i> and activate another theme such as the "
 "default WordPress theme."
 msgstr ""
+"Aller à <i>Apparence> Thèmes</i> et activer un autre thème comme le "
+"WordPress thème par défaut."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:113
 #, php-format
 msgid "Delete the <i>%s</i> theme which is now inactive."
 msgstr ""
+"<i>Supprimer</i> le fichier  <i>%s</i> thème qui est maintenant inactif."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:114
 #, php-format
@@ -3584,14 +3668,16 @@ msgid ""
 "Go to <i>Install Themes &gt; Upload</i> then install and activate <i>%s.zip</"
 "i> from the new package."
 msgstr ""
+"Aller à <i>Télécharger et installer des thèmes</i> puis installer et activer "
+"<i>%s.zip</i> de la nouvelle archive."
 
 #: ../framework/admin/inc/notifier/update-notifier.php:117
 msgid "Changelog and Update History"
-msgstr ""
+msgstr "Historique des mises à jour :"
 
 #: ../framework/admin/inc/notifier/update-notifier.php:118
 msgid "View the ChangeLog Details"
-msgstr ""
+msgstr "Voir le changelog complet"
 
 #: ../framework/blocks/block-categories.php:58
 #: ../framework/blocks/block-categories.php:109
@@ -3608,18 +3694,18 @@ msgstr ""
 #: ../framework/loops/loop-masonry.php:29
 #: ../framework/loops/loop-wide-featured.php:24
 msgid "Read More &raquo;"
-msgstr ""
+msgstr "En savoir plus &raquo;"
 
 #: ../framework/blocks/block-woocommerce.php:70
 #: ../framework/blocks/block-woocommerce.php:119
 #: ../framework/functions/translation.php:62
 msgid "No products found"
-msgstr ""
+msgstr "Non trouvé"
 
 #: ../framework/functions/arqam-lite.php:32
 #: ../framework/functions/arqam-lite.php:116
 msgid "Fans"
-msgstr ""
+msgstr "Fans"
 
 #: ../framework/functions/arqam-lite.php:33
 #: ../framework/functions/arqam-lite.php:34
@@ -3638,7 +3724,7 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:254
 #: ../framework/functions/arqam-lite.php:269
 msgid "Followers"
-msgstr ""
+msgstr "Followers"
 
 #: ../framework/functions/arqam-lite.php:35
 #: ../framework/functions/arqam-lite.php:36
@@ -3647,39 +3733,39 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:179
 #: ../framework/functions/arqam-lite.php:284
 msgid "Subscribers"
-msgstr ""
+msgstr "Abonnés"
 
 #: ../framework/functions/arqam-lite.php:760
 msgid "Style :"
-msgstr ""
+msgstr "Style :"
 
 #: ../framework/functions/arqam-lite.php:762
 msgid "Gray Icons"
-msgstr ""
+msgstr "Icônes grises"
 
 #: ../framework/functions/arqam-lite.php:763
 msgid "Colored Icons"
-msgstr ""
+msgstr "Icônes colorées"
 
 #: ../framework/functions/arqam-lite.php:764
 msgid "Colored border Icons"
-msgstr ""
+msgstr "Bordure colorée d'icônes"
 
 #: ../framework/functions/arqam-lite.php:873
 msgid "Facebook App info"
-msgstr ""
+msgstr "Renseignements Facebook App"
 
 #: ../framework/functions/arqam-lite.php:880
 msgid "FaceBook App info"
-msgstr ""
+msgstr "Renseignements FaceBook App"
 
 #: ../framework/functions/arqam-lite.php:885
 msgid "App ID"
-msgstr ""
+msgstr "Identifiant de l'application"
 
 #: ../framework/functions/arqam-lite.php:889
 msgid "App Secret"
-msgstr ""
+msgstr "Clé secrète:"
 
 #: ../framework/functions/arqam-lite.php:894
 #: ../framework/functions/arqam-lite.php:989
@@ -3696,7 +3782,7 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:1292
 #: ../framework/functions/arqam-lite.php:1351
 msgid "Need Help?"
-msgstr ""
+msgstr "Besoin d\\'aide ?"
 
 #: ../framework/functions/arqam-lite.php:894
 #, php-format
@@ -3704,32 +3790,34 @@ msgid ""
 "Enter Your App ID and App Secret, <a href=\"%s\" target=\"_blank\">Click "
 "Here</a> For More Details."
 msgstr ""
+"Entrez votre ID App et App secrète, <a href=« %s » target=« _blank »>Cliquez "
+"ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:903
 #: ../framework/functions/arqam-lite.php:998
 msgid "Submit"
-msgstr ""
+msgstr "Envoyer"
 
 #: ../framework/functions/arqam-lite.php:962
 #: ../framework/functions/arqam-lite.php:969
 msgid "Instagram App info"
-msgstr ""
+msgstr "Renseignements App Instagram"
 
 #: ../framework/functions/arqam-lite.php:974
 msgid "Client ID"
-msgstr ""
+msgstr "ID Client"
 
 #: ../framework/functions/arqam-lite.php:978
 msgid "Client Secret"
-msgstr ""
+msgstr "Clé secrète Client"
 
 #: ../framework/functions/arqam-lite.php:982
 msgid "Follow The Team"
-msgstr ""
+msgstr "Suivez l\\’équipe"
 
 #: ../framework/functions/arqam-lite.php:984
 msgid "Follow @tielabs and @imo3aser on instagram."
-msgstr ""
+msgstr "Suivez @tielabs et @imo3aser sur Instagram."
 
 #: ../framework/functions/arqam-lite.php:989
 #, php-format
@@ -3737,28 +3825,30 @@ msgid ""
 "Enter Your App Client ID and App Client Secret, <a href=\"%s\" target="
 "\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Saisissez votre identifiant de client App et votre clé secrète d'App, <a "
+"href=« %s » target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1010
 msgid "Settings saved."
-msgstr ""
+msgstr "Réglages sauvegardés."
 
 #: ../framework/functions/arqam-lite.php:1012
 msgid "Arqam Lite Settings"
-msgstr ""
+msgstr "Paramètres Arqam  Lite"
 
 #: ../framework/functions/arqam-lite.php:1012
 #: ../framework/functions/arqam-lite.php:1364
 msgid "Need More?"
-msgstr ""
+msgstr "Plus de thème"
 
 #: ../framework/functions/arqam-lite.php:1019 ../framework/parts/share.php:20
 #: ../framework/widgets/widget-facebook.php:12
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ../framework/functions/arqam-lite.php:1024
 msgid "Page ID/Name"
-msgstr ""
+msgstr "Nom / ID de la page :"
 
 #: ../framework/functions/arqam-lite.php:1028
 #: ../framework/functions/arqam-lite.php:1056
@@ -3773,18 +3863,18 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:1280
 #: ../framework/functions/arqam-lite.php:1326
 msgid "Text Below The Number"
-msgstr ""
+msgstr "Texte en dessous du numéro"
 
 #: ../framework/functions/arqam-lite.php:1032
 #: ../framework/functions/arqam-lite.php:1167
 #: ../framework/functions/arqam-lite.php:1284
 msgid "Access Token Key"
-msgstr ""
+msgstr "Clé du jeton d\\’accès"
 
 #: ../framework/functions/arqam-lite.php:1035
 #: ../framework/functions/arqam-lite.php:1287
 msgid "Get Access Token"
-msgstr ""
+msgstr "Obtenir un Jeton d\\'accès"
 
 #: ../framework/functions/arqam-lite.php:1040
 #, php-format
@@ -3793,11 +3883,14 @@ msgid ""
 "your App Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
 "More Details."
 msgstr ""
+"Entrez votre Nom ou ID de page Facebook et cliquez sur Obtenir jeton d"
+"\\’accès pour obtenir votre jeton d\\’accès d'App, <a href=« %s » "
+"target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1047 ../framework/parts/share.php:23
 #: ../framework/widgets/widget-twitter.php:12
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../framework/functions/arqam-lite.php:1052
 #: ../framework/functions/arqam-lite.php:1163
@@ -3807,15 +3900,15 @@ msgstr ""
 #: ../framework/functions/arqam-lite.php:1255
 #: ../framework/functions/arqam-lite.php:1276
 msgid "UserName"
-msgstr ""
+msgstr "Nom d’utilisateur"
 
 #: ../framework/functions/arqam-lite.php:1060
 msgid "Consumer key"
-msgstr ""
+msgstr "Clé publique:"
 
 #: ../framework/functions/arqam-lite.php:1064
 msgid "Consumer secret"
-msgstr ""
+msgstr "Clé secrète:"
 
 #: ../framework/functions/arqam-lite.php:1069
 #, php-format
@@ -3823,18 +3916,21 @@ msgid ""
 "Enter Your Twitter Account Username , your APP Consumer key and Consumer "
 "secret, <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Entrez votre identifiant de compte Twitter, votre clé de consommateur d’APP "
+"et votre clé secrète de consommateur, <a href=« %s » "
+"target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1076
 msgid "Google+"
-msgstr ""
+msgstr "Google+"
 
 #: ../framework/functions/arqam-lite.php:1081
 msgid "Google+ ID"
-msgstr ""
+msgstr "Google+ ID"
 
 #: ../framework/functions/arqam-lite.php:1085
 msgid "Google API Key"
-msgstr ""
+msgstr "Clé API Google :"
 
 #: ../framework/functions/arqam-lite.php:1094
 #, php-format
@@ -3842,23 +3938,25 @@ msgid ""
 "Enter Your Google+ page or profile ID and Google API Key, <a href=\"%s\" "
 "target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Entrez votre ID de page ou profil Google  ID et votre clé d'API Google, <a "
+"href=« %s » target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1100
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: ../framework/functions/arqam-lite.php:1105
 msgid "Username or Channel ID"
-msgstr ""
+msgstr "Nom d\\'utilisateur ou ID de la chaîne"
 
 #: ../framework/functions/arqam-lite.php:1109
 msgid "Youtube API Key"
-msgstr ""
+msgstr "Votre clé API YouTube."
 
 #: ../framework/functions/arqam-lite.php:1117
 #: ../framework/functions/arqam-lite.php:1330
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: ../framework/functions/arqam-lite.php:1130
 #, php-format
@@ -3867,22 +3965,25 @@ msgid ""
 "Channel from Type menu, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
 "More Details."
 msgstr ""
+"Entrez votre nom d\\’utilisateur Youtube ou ID de chaîne, clé API et "
+"choisissez l\\’utilisateur ou la chaîne à partir du menu Type, <a "
+"href=« %s » target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1137
 msgid "Vimeo"
-msgstr ""
+msgstr "Vimeo"
 
 #: ../framework/functions/arqam-lite.php:1142
 msgid "Channel Name"
-msgstr ""
+msgstr "Nom de la chaîne"
 
 #: ../framework/functions/arqam-lite.php:1151
 msgid "Enter Your Vimeo Channel Name."
-msgstr ""
+msgstr "Entrez votre nom de chaîne Vimeo."
 
 #: ../framework/functions/arqam-lite.php:1158
 msgid "Dribbble"
-msgstr ""
+msgstr "Dribbble"
 
 #: ../framework/functions/arqam-lite.php:1176
 #, php-format
@@ -3890,16 +3991,18 @@ msgid ""
 "Enter Your Dribbble Account Username and the Access Token Key, <a href=\"%s"
 "\" target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Entrez votre identifiant de compte Dribbble et votre clé de jeton d\\'accès, "
+"<a href=\"%s\" target=\"_blank\">Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1182
 #: ../framework/widgets/widget-soundcloud.php:11
 msgid "SoundCloud"
-msgstr ""
+msgstr "SoundCloud"
 
 #: ../framework/functions/arqam-lite.php:1195
 #: ../framework/functions/arqam-lite.php:1219
 msgid "API Key"
-msgstr ""
+msgstr "Clé API :"
 
 #: ../framework/functions/arqam-lite.php:1200
 #, php-format
@@ -3907,10 +4010,12 @@ msgid ""
 "Enter Your SoundCloud Account Username and the API Key, <a href=\"%s\" "
 "target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Entrez votre identifiant de compte SoundCloud et la clé d\\'API, <a "
+"href=« %s » target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1206
 msgid "Behance"
-msgstr ""
+msgstr "Behance"
 
 #: ../framework/functions/arqam-lite.php:1224
 #, php-format
@@ -3918,26 +4023,28 @@ msgid ""
 "Enter Your Behance Account Username and the API Key, <a href=\"%s\" target="
 "\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Entrez votre identifiant de compte Behance et la clé d\\'API, <a href=« %s » "
+"target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1230
 msgid "Github"
-msgstr ""
+msgstr "Github"
 
 #: ../framework/functions/arqam-lite.php:1244
 msgid "Enter Your Github Account Username."
-msgstr ""
+msgstr "Entrez votre nom d\\’utilisateur Github."
 
 #: ../framework/functions/arqam-lite.php:1250
 msgid "Delicious"
-msgstr ""
+msgstr "Delicious"
 
 #: ../framework/functions/arqam-lite.php:1265
 msgid "Enter Your Delicious Account Username."
-msgstr ""
+msgstr "Entrez votre nom d\\’utilisateur Delicious."
 
 #: ../framework/functions/arqam-lite.php:1271
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: ../framework/functions/arqam-lite.php:1292
 #, php-format
@@ -3946,22 +4053,25 @@ msgid ""
 "Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For More "
 "Details."
 msgstr ""
+"Entrez votre nom d\\’utilisateur Instagram et cliquez sur Obtenir un jeton d"
+"\\’accès pour obtenir votre jeton d\\’accès d'App, <a href=« %s » "
+"target=« _blank »>Cliquez ici</a> pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1298
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ../framework/functions/arqam-lite.php:1322
 msgid "Feed URL"
-msgstr ""
+msgstr "URL du Flux"
 
 #: ../framework/functions/arqam-lite.php:1342
 msgid "Feedpress Json file URL"
-msgstr ""
+msgstr "URL du fichier Feedpress Json"
 
 #: ../framework/functions/arqam-lite.php:1346
 msgid "Number of Subscribers"
-msgstr ""
+msgstr "Nombre d\\’abonnés"
 
 #: ../framework/functions/arqam-lite.php:1351
 #, php-format
@@ -3969,307 +4079,316 @@ msgid ""
 "Enter Your Feed URl and the Feedpress Json file URL or Number of Subscribers "
 "manually  <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
 msgstr ""
+"Entrez votre URL de flux et l\\’URL du fichier Feedpress JSON ou le nombre d"
+"\\’abonnés manuellement <a href=« %s » target=« _blank »>Cliquez ici</a> "
+"pour plus de détails."
 
 #: ../framework/functions/arqam-lite.php:1366
 msgid ""
 "Purchase the full version of Arqam plugin to get all following features :"
 msgstr ""
+"Achetez la version complète de l\\'extension Arqam pour obtenir toutes les "
+"caractéristiques suivantes :"
 
 #: ../framework/functions/arqam-lite.php:1368
 msgid "Drag an Drop feature to sort icons as you wish !"
 msgstr ""
+"Fonctionnalité Glisser et Déposer pour trier les icônes comme vous le "
+"souhaitez!"
 
 #: ../framework/functions/arqam-lite.php:1369
 msgid "Option To set the Cache time to reduce load time and API calls."
 msgstr ""
+"Option pour définir le temps de cache pour réduire les temps de chargement "
+"et les appels d\\’API."
 
 #: ../framework/functions/arqam-lite.php:1370
 msgid "More Layout options."
-msgstr ""
+msgstr "Plus d\\'options de mise en page."
 
 #: ../framework/functions/arqam-lite.php:1371
 msgid "More Social Networks:"
-msgstr ""
+msgstr "Plus de réseaux sociaux :"
 
 #: ../framework/functions/arqam-lite.php:1392
 msgid "Members Number"
-msgstr ""
+msgstr "Nombre de membres"
 
 #: ../framework/functions/arqam-lite.php:1393
 msgid "Posts Number"
-msgstr ""
+msgstr "Nombre d\\’articles"
 
 #: ../framework/functions/arqam-lite.php:1394
 msgid "Comments Number"
-msgstr ""
+msgstr "Nombre de commentaires"
 
 #: ../framework/functions/arqam-lite.php:1407
 msgid "Save Settings"
-msgstr ""
+msgstr "Sauvegarder les paramètres"
 
 #: ../framework/functions/arqam-lite.php:1412
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: ../framework/functions/breadcrumbs.php:17
 #: ../framework/functions/translation.php:105
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: ../framework/functions/breadcrumbs.php:78
 #: ../framework/functions/translation.php:17 ../search.php:9
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Résultats de la recherche pour :%s"
 
 #: ../framework/functions/breadcrumbs.php:112
 #: ../framework/functions/translation.php:29 ../tag.php:8
 #, php-format
 msgid "Tag Archives: %s"
-msgstr ""
+msgstr "Mots-clés Archives: %s"
 
 #: ../framework/functions/breadcrumbs.php:131
 #: ../framework/functions/translation.php:91
 msgid "page"
-msgstr ""
+msgstr "page"
 
 #: ../framework/functions/common-scripts.php:77
 #: ../framework/functions/translation.php:19
 msgid "No Results"
-msgstr ""
+msgstr "Aucun résultat"
 
 #: ../framework/functions/common-scripts.php:78
 #: ../framework/functions/translation.php:18
 msgid "Results Found"
-msgstr ""
+msgstr "Rien n\\'a était trouvé"
 
 #: ../framework/functions/mega-menus.php:352
 msgid "Menu Icon"
-msgstr ""
+msgstr "Icône de menu"
 
 #: ../framework/functions/mega-menus.php:361
 msgid "Enable Mega Menu ?"
-msgstr ""
+msgstr "Activer Mega Menu"
 
 #: ../framework/functions/mega-menus.php:365
 msgid "Sub Categories + Posts"
-msgstr ""
+msgstr "Sous-catégories + Articles"
 
 #: ../framework/functions/mega-menus.php:366
 msgid "Recent post + Check also"
-msgstr ""
+msgstr "Article récent + Vérifier aussi"
 
 #: ../framework/functions/mega-menus.php:368
 msgid "Mega Links"
-msgstr ""
+msgstr "Mega Liens"
 
 #: ../framework/functions/mega-menus.php:374
 msgid "Mega Links - Columns"
-msgstr ""
+msgstr "Mega Liens  - Colonnes"
 
 #: ../framework/functions/mega-menus.php:387
 msgid "Mega Menu Background Image"
-msgstr ""
+msgstr "Image d'arrière-plan Mega menu"
 
 #: ../framework/functions/mega-menus.php:413
 msgid "Padding Right"
-msgstr ""
+msgstr "Marge Droit"
 
 #: ../framework/functions/mega-menus.php:420
 msgid "Padding left"
-msgstr ""
+msgstr "Marge gauche"
 
 #: ../framework/functions/mega-menus.php:427
 msgid "Min Height"
-msgstr ""
+msgstr "Hauteur min :"
 
 #: ../framework/functions/mega-menus.php:563
 #, php-format
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (invalide)"
 
 #: ../framework/functions/mega-menus.php:567
 #, php-format
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (en attente)"
 
 #: ../framework/functions/mega-menus.php:580
 msgid "sub item"
-msgstr ""
+msgstr "Sous-éléments"
 
 #: ../framework/functions/mega-menus.php:612
 msgid "Edit Menu Item"
-msgstr ""
+msgstr "Editer Elément Menu"
 
 #: ../framework/functions/mega-menus.php:628
 msgid "Navigation Label"
-msgstr ""
+msgstr "Étiquette de Navigation"
 
 #: ../framework/functions/mega-menus.php:634
 msgid "Title Attribute"
-msgstr ""
+msgstr "Propriété du Titre"
 
 #: ../framework/functions/mega-menus.php:646
 msgid "CSS Classes (optional)"
-msgstr ""
+msgstr "Classes CSS (facultatif)"
 
 #: ../framework/functions/mega-menus.php:652
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "Relation du lien (XFN)"
 
 #: ../framework/functions/mega-menus.php:658
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: ../framework/functions/mega-menus.php:660
 msgid ""
 "The description will be displayed in the menu if the current theme supports "
 "it."
-msgstr ""
+msgstr "La description sera affiché dans le menu si le thème actuel le permet."
 
 #: ../framework/functions/mega-menus.php:675
 msgid "Move"
-msgstr ""
+msgstr "Déplacer"
 
 #: ../framework/functions/mega-menus.php:676
 msgid "Up one"
-msgstr ""
+msgstr "Monter de un"
 
 #: ../framework/functions/mega-menus.php:677
 msgid "Down one"
-msgstr ""
+msgstr "Descendre"
 
 #: ../framework/functions/mega-menus.php:680
 msgid "To the top"
-msgstr ""
+msgstr "Remonter vers le haut"
 
 #: ../framework/functions/mega-menus.php:687
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Original: %s"
 
 #: ../framework/functions/mega-menus.php:700
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
 #: ../framework/functions/mega-menus.php:701
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: ../framework/functions/pagenavi.php:167
 #: ../framework/functions/translation.php:96
 msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
-msgstr ""
+msgstr "Page %CURRENT_PAGE% sur %TOTAL_PAGES%"
 
 #: ../framework/functions/pagenavi.php:170
 #: ../framework/functions/translation.php:92
 msgid "&laquo; First"
-msgstr ""
+msgstr "&laquo; Premier"
 
 #: ../framework/functions/pagenavi.php:171
 #: ../framework/functions/translation.php:93
 msgid "Last &raquo;"
-msgstr ""
+msgstr "Dernier &raquo;"
 
 #: ../framework/functions/pagenavi.php:172
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: ../framework/functions/pagenavi.php:173
 msgid "&laquo;"
-msgstr ""
+msgstr "&laquo;"
 
 #: ../framework/functions/search-live.php:103
 #: ../framework/functions/translation.php:20
 msgid "View All Results"
-msgstr ""
+msgstr "Tous les résultats"
 
 #: ../framework/functions/theme-functions.php:32
 msgid "Top Menu Navigation"
-msgstr ""
+msgstr "Menu de navigation supérieure"
 
 #: ../framework/functions/theme-functions.php:33
 msgid "Primary Navigation"
-msgstr ""
+msgstr "Navigation principale"
 
 #: ../framework/functions/theme-functions.php:616
 #: ../framework/functions/theme-functions.php:619
 msgid "Cover Image"
-msgstr ""
+msgstr "Image de couverture"
 
 #: ../framework/functions/theme-functions.php:641
 msgid "Custom Author widget"
-msgstr ""
+msgstr "Personnaliser le widget de l’auteur"
 
 #: ../framework/functions/theme-functions.php:644
 msgid "Custom Author widget content"
-msgstr ""
+msgstr "Personnaliser le contenu du widget de l’auteur"
 
 #: ../framework/functions/theme-functions.php:742
 msgid "No items."
-msgstr ""
+msgstr "Aucun élément."
 
 #: ../framework/functions/theme-functions.php:747
 msgid "Posted "
-msgstr ""
+msgstr "Publié"
 
 #: ../framework/functions/theme-functions.php:1182
 #: ../framework/functions/translation.php:77
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenu(e)"
 
 #: ../framework/functions/theme-functions.php:1184
 #: ../framework/functions/translation.php:78
 msgid "Dashboard"
-msgstr ""
+msgstr "Statistiques"
 
 #: ../framework/functions/theme-functions.php:1185
 #: ../framework/functions/translation.php:79
 msgid "Your Profile"
-msgstr ""
+msgstr "Votre profile"
 
 #: ../framework/functions/theme-functions.php:1186
 #: ../framework/functions/translation.php:80
 msgid "Logout"
-msgstr ""
+msgstr "Se déconnecter"
 
 #: ../framework/functions/theme-functions.php:1194
 #: ../framework/functions/translation.php:81
 msgid "Username"
-msgstr ""
+msgstr "Nom d\\'utilisateur"
 
 #: ../framework/functions/theme-functions.php:1195
 #: ../framework/functions/translation.php:82
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: ../framework/functions/theme-functions.php:1196
 #: ../framework/functions/translation.php:83
 msgid "Log in"
-msgstr ""
+msgstr "Connexion"
 
 #: ../framework/functions/theme-functions.php:1197
 #: ../framework/functions/translation.php:84
 msgid "Remember Me"
-msgstr ""
+msgstr "Se souvenir de moi"
 
 #: ../framework/functions/theme-functions.php:1202
 #: ../framework/functions/translation.php:85
 msgid "Lost your password?"
-msgstr ""
+msgstr "Mot de passe oublié ?"
 
 #: ../framework/functions/theme-functions.php:1286
 #: ../framework/functions/translation.php:103
 #: ../framework/widgets/widget-twitter.php:107
 #, php-format
 msgid "%s ago"
-msgstr ""
+msgstr "%s depuis"
 
 #: ../framework/functions/theme-functions.php:1452
 #: ../framework/functions/translation.php:95
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #: ../framework/functions/theme-functions.php:1452
 #: ../framework/functions/theme-functions.php:1476
@@ -4279,92 +4398,94 @@ msgstr ""
 #: ../template-sitemap.php:64 ../template-tags.php:44
 #: ../template-timeline.php:80
 msgid "Edit"
-msgstr ""
+msgstr "Editer"
 
 #: ../framework/functions/theme-functions.php:1457
 #: ../framework/functions/translation.php:44
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Votre commentaire est en attente de modération."
 
 #: ../framework/functions/theme-functions.php:1476
 #: ../framework/functions/translation.php:45
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: ../framework/functions/theme-functions.php:1563
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "Installer les extensions requises."
 
 #: ../framework/functions/theme-functions.php:1564
 msgid "Install Plugins"
-msgstr ""
+msgstr "Installation des Extensions"
 
 #: ../framework/functions/theme-functions.php:1565
 #, php-format
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "Installation des plugins: %s"
 
 #: ../framework/functions/theme-functions.php:1566
 msgid "Something went wrong with the plugin API."
-msgstr ""
+msgstr "Une erreur s\\’est produite avec l\\’API du plugin."
 
 #: ../framework/functions/theme-functions.php:1577
 msgid "Return to Required Plugins Installer"
-msgstr ""
+msgstr "Retour vers l\\’installateur de plugins requis"
 
 #: ../framework/functions/theme-functions.php:1578
 msgid "Plugin activated successfully."
-msgstr ""
+msgstr "L\\’extension a été activée avec succès."
 
 #: ../framework/functions/theme-functions.php:1579
 #, php-format
 msgid "All plugins installed and activated successfully. %s"
-msgstr ""
+msgstr "Toutes les extensions ont été installées et activées avec succès. %s"
 
 #: ../framework/functions/theme-functions.php:1783
 msgid "Review Overview"
-msgstr ""
+msgstr "Vue d'ensemble de l'évaluation"
 
 #: ../framework/functions/tie-views.php:82
 #: ../framework/functions/translation.php:60
 #: ../framework/parts/meta-post.php:18
 msgid "Views"
-msgstr ""
+msgstr "Vues"
 
 #: ../framework/functions/translation.php:21 ../search.php:28
 msgid ""
 "Sorry, but nothing matched your search criteria. Please try again with some "
 "different keywords."
 msgstr ""
+"Aucun résultat ne correspond à vos critères de recherche. Veuillez essayer "
+"avec d’autres mots-clés."
 
 #: ../framework/functions/translation.php:24
 msgid "Archives"
-msgstr ""
+msgstr "Archives"
 
 #: ../framework/functions/translation.php:34
 #: ../framework/widgets/widget-tabbed.php:39
 #: ../framework/widgets/widget-tabbed.php:153
 msgid "Comments"
-msgstr ""
+msgstr "Commentaires"
 
 #: ../framework/functions/translation.php:38
 #: ../framework/parts/meta-post.php:15
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Commentaire"
 
 #: ../framework/functions/translation.php:39
 #: ../framework/parts/meta-post.php:15
 msgid "% Comments"
-msgstr ""
+msgstr "% Commentaires"
 
 #: ../framework/functions/translation.php:41
 #: ../framework/parts/meta-post.php:15
 msgid "Leave a comment"
-msgstr ""
+msgstr "Laisser un commentaire"
 
 #: ../framework/functions/translation.php:48
 msgid "Posts"
-msgstr ""
+msgstr "Articles"
 
 #: ../framework/functions/translation.php:50 ../page.php:84 ../single.php:65
 #: ../template-authors.php:32 ../template-best-reviews.php:31
@@ -4372,180 +4493,180 @@ msgstr ""
 #: ../template-sitemap.php:32 ../template-tags.php:32
 #: ../template-timeline.php:31
 msgid "Pages:"
-msgstr ""
+msgstr "Pages:"
 
 #: ../framework/functions/translation.php:53 ../single.php:94
 msgid "About"
-msgstr ""
+msgstr "À propos :"
 
 #: ../framework/functions/translation.php:54 ../single.php:105
 msgid "Previous"
-msgstr ""
+msgstr "<< Précédent"
 
 #: ../framework/functions/translation.php:55
 #: ../framework/shortcodes/shortcodes.php:402
 #: ../framework/shortcodes/shortcodes.php:410
 msgid "Prev"
-msgstr ""
+msgstr "1ère"
 
 #: ../framework/functions/translation.php:56
 #: ../framework/shortcodes/shortcodes.php:401
 #: ../framework/shortcodes/shortcodes.php:409 ../single.php:106
 msgid "Next"
-msgstr ""
+msgstr "Suivante"
 
 #: ../framework/functions/translation.php:57 ../template-sitemap.php:36
 msgid "Pages"
-msgstr ""
+msgstr "Pages"
 
 #: ../framework/functions/translation.php:59 ../template-sitemap.php:58
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #: ../framework/functions/translation.php:63 ../framework/parts/share.php:13
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 #: ../framework/functions/translation.php:64
 #: ../framework/parts/related-posts.php:29
 msgid "Related Articles"
-msgstr ""
+msgstr "Article dans la même catégorie"
 
 #: ../framework/functions/translation.php:65
 #: ../woocommerce/single-product/related.php:38
 msgid "Related Products"
-msgstr ""
+msgstr "Produit dans la même catégorie"
 
 #: ../framework/functions/translation.php:66 ../template-restrict.php:38
 msgid "You must be logged in to view this page."
-msgstr ""
+msgstr "Vous devez être connecté pour afficher cette page."
 
 #: ../framework/functions/translation.php:69
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: ../framework/functions/translation.php:71
 #: ../framework/widgets/widget-author.php:96
 msgid "All Posts"
-msgstr ""
+msgstr "Tous les articles"
 
 #: ../framework/functions/translation.php:72
 #: ../framework/widgets/widget-author.php:88
 #, php-format
 msgid "By %s"
-msgstr ""
+msgstr "Par %s"
 
 #: ../framework/functions/translation.php:73
 #: ../framework/widgets/widget-author.php:23
 #, php-format
 msgid "About %s"
-msgstr ""
+msgstr "À propos %s"
 
 #: ../framework/functions/translation.php:74
 #: ../framework/widgets/widget-tabbed.php:33
 #: ../framework/widgets/widget-tabbed.php:147
 msgid "Popular"
-msgstr ""
+msgstr "Populaires"
 
 #: ../framework/functions/translation.php:76
 #: ../framework/widgets/widget-feedburner.php:30
 msgid "Subscribe"
-msgstr ""
+msgstr "S\\'abonner"
 
 #: ../framework/functions/translation.php:86
 #: ../framework/widgets/widget-feedburner.php:27
 msgid "Enter your e-mail address"
-msgstr ""
+msgstr "Saisissez votre adresse e-mail."
 
 #: ../framework/functions/translation.php:89
 msgid "Pagination"
-msgstr ""
+msgstr "Pagination"
 
 #: ../framework/functions/translation.php:94
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "Page %s"
 
 #: ../framework/functions/translation.php:100
 msgid "Misc"
-msgstr ""
+msgstr "Divers"
 
 #: ../framework/functions/translation.php:104
 #: ../framework/shortcodes/shortcodes.php:100
 msgid "About the author"
-msgstr ""
+msgstr "À propos de l\\'auteur"
 
 #: ../framework/functions/translation.php:107 ../header.php:207
 msgid "Random Article"
-msgstr ""
+msgstr "Article au hasard"
 
 #: ../framework/functions/translation.php:108 ../header.php:212
 msgid "View your shopping cart"
-msgstr ""
+msgstr "Voir votre panier"
 
 #: ../framework/parts/share.php:26
 msgid "Google +"
-msgstr ""
+msgstr "Google +"
 
 #: ../framework/parts/share.php:29
 msgid "Stumbleupon"
-msgstr ""
+msgstr "StumbleUpon"
 
 #: ../framework/parts/share.php:32
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: ../framework/parts/share.php:35
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: ../framework/widgets.php:13
 msgid "Primary Widget Area"
-msgstr ""
+msgstr "Zone de Widget principale"
 
 #: ../framework/widgets.php:15
 msgid "The Primary widget area"
-msgstr ""
+msgstr "La Zone de Widget principale"
 
 #: ../framework/widgets.php:23
 msgid "This widget area uses in the WooCommerce pages ."
-msgstr ""
+msgstr "Cette zone de widget s’utilise uniquement dans les pages WooCommerce."
 
 #: ../framework/widgets.php:51
 msgid "First Footer Widget Area"
-msgstr ""
+msgstr "Widget de pied de page -  zone 1"
 
 #: ../framework/widgets.php:53
 msgid "The first footer widget area"
-msgstr ""
+msgstr "1ème zone de pied de page"
 
 #: ../framework/widgets.php:59
 msgid "Second Footer Widget Area"
-msgstr ""
+msgstr "2ème zone widget de  pied de page"
 
 #: ../framework/widgets.php:61
 msgid "The Second footer widget area"
-msgstr ""
+msgstr "2ème zone de  pied de page"
 
 #: ../framework/widgets.php:68
 msgid "Third Footer Widget Area"
-msgstr ""
+msgstr "3ème zone widget de pied de page"
 
 #: ../framework/widgets.php:70
 msgid "The Third footer widget area"
-msgstr ""
+msgstr "3ème zone de pied de page"
 
 #: ../framework/widgets.php:77
 msgid "Fourth Footer Widget Area"
-msgstr ""
+msgstr "4ème zone de pied de page"
 
 #: ../framework/widgets.php:79
 msgid "The Fourth footer widget area"
-msgstr ""
+msgstr "4ème zone de pied de page"
 
 #: ../framework/widgets/widget-ads.php:12
 msgid "Ads 125*125"
-msgstr ""
+msgstr "Annonces 125 * 125"
 
 #: ../framework/widgets/widget-ads.php:78
 #: ../framework/widgets/widget-ads.php:198
@@ -4558,7 +4679,7 @@ msgstr ""
 #: ../framework/widgets/widget-ads.php:1006
 #: ../framework/widgets/widget-ads.php:1118
 msgid " Advertisement"
-msgstr ""
+msgstr "Annonce"
 
 #: ../framework/widgets/widget-ads.php:86
 #: ../framework/widgets/widget-ads.php:206
@@ -4574,7 +4695,7 @@ msgstr ""
 #: ../framework/widgets/widget-social.php:64
 #: ../framework/widgets/widget-text-html.php:74
 msgid "Content Only:"
-msgstr ""
+msgstr "Contenu uniquement:"
 
 #: ../framework/widgets/widget-ads.php:88
 #: ../framework/widgets/widget-ads.php:208
@@ -4589,7 +4710,7 @@ msgstr ""
 #: ../framework/widgets/widget-author-custom.php:67
 #: ../framework/widgets/widget-social.php:66
 msgid "Check this box to hide widget title and background."
-msgstr ""
+msgstr "Sélectionner cet option pour cacher le widget titre et background."
 
 #: ../framework/widgets/widget-ads.php:91
 #: ../framework/widgets/widget-ads.php:211
@@ -4696,7 +4817,7 @@ msgstr "Publicités"
 #: ../framework/widgets/widget-ads.php:917
 #: ../framework/widgets/widget-ads.php:1141
 msgid "Ads image path:"
-msgstr "URL de l'image publicitaire"
+msgstr "URL de l\\'image publicitaire"
 
 #: ../framework/widgets/widget-ads.php:704
 #: ../framework/widgets/widget-ads.php:812
@@ -4795,11 +4916,11 @@ msgstr "Nombre de commentaires à afficher :"
 
 #: ../framework/widgets/widget-custom-author.php:11
 msgid "Custom Author Bio"
-msgstr "Bio personnalisé de l'auteur"
+msgstr "Bio personnalisé de l\\'auteur"
 
 #: ../framework/widgets/widget-custom-author.php:55
 msgid "About Author"
-msgstr "À propos de l'auteur :"
+msgstr "À propos de l\\'auteur :"
 
 #: ../framework/widgets/widget-custom-author.php:63
 msgid "Avatar Image URL:"
@@ -4827,7 +4948,7 @@ msgstr "FeedBurner Widget"
 
 #: ../framework/widgets/widget-feedburner.php:51
 msgid "Subscribe to our email newsletter."
-msgstr "Souscrire à notre lettre d'information de courrier électronique."
+msgstr "Souscrire à notre lettre d\\'information de courrier électronique."
 
 #: ../framework/widgets/widget-feedburner.php:59
 msgid "Text above Email Input Field:"
@@ -4903,7 +5024,7 @@ msgstr "Populaires / Commentaires"
 
 #: ../framework/widgets/widget-posts.php:76
 msgid "Popular / Views"
-msgstr "Populaires/ Vues"
+msgstr "Populaires / Vues"
 
 #: ../framework/widgets/widget-posts.php:78
 msgid "Best Reviews"
@@ -4945,12 +5066,12 @@ msgstr "Ordre des étiquettes:"
 #: ../framework/widgets/widget-tabbed.php:133
 msgid "click Save button to be able to change the order of tabs ."
 msgstr ""
-"Cliquez sur le bouton de Sauvegarder pour pouvoir changer l'ordre des "
+"Cliquez sur le bouton de Sauvegarder pour pouvoir changer l\\'ordre des "
 "étiquettes."
 
 #: ../framework/widgets/widget-tabbed.php:164
 msgid "Number of items to show :"
-msgstr "Nombre d'items à afficher"
+msgstr "Nombre d\\'items à afficher"
 
 #: ../framework/widgets/widget-tabbed.php:168
 msgid "Popular order :"
